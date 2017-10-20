@@ -1,0 +1,6 @@
+BART -- Beautiful Anaphora Resolution ToolKit
+
+Go into BART directory and type the following commands :
+1) source setup.sh
+3) java -Xmx1024m elkfed.webdemo.BARTServer  (This will run the server)
+4) Open this link on browser : http://localhost:8125/index.jsp

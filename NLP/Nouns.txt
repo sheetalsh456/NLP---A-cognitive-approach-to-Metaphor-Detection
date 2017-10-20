@@ -1,0 +1,5016 @@
+prepare/0
+seaport/0
+crusade/1
+hale/0
+hamlet/0
+packsack/0
+pennant/0
+eating house/0
+disapproval/1
+hall/0
+halo/1
+drunk/0
+mundaneness/1
+woolgather/1
+tec/0
+postman/0
+pick/0
+human action/1
+legs/0
+scanty/0
+energy/1
+require/1
+scratch/0
+click/0
+Arabian tea/0
+backwards/0
+fogginess/0
+stringency/1
+perspicacity/1
+5/0
+temper/1
+perspirer/0
+rejoice/1
+tickle/1
+iciness/1
+recliner/0
+indigence/1
+flit/0
+throb/1
+sunglass/0
+C/0
+roll/0
+pleasantness/1
+perseverance/1
+K/0
+destroyer/0
+example/0
+opposition/1
+pier/0
+reprimand/0
+clappers/0
+bowing/0
+quiet/1
+flip/1
+connect/0
+hand/0
+special K/0
+b/0
+garland/0
+address/1
+posture/1
+g/0
+Independence/1
+tie-in/0
+seemliness/1
+mightiness/1
+treetop/0
+ramble/0
+sale/1
+pipe up/0
+busbar/0
+police/1
+throw/0
+v/0
+enchantment/1
+Marsh/0
+information/1
+world power/1
+cooking stove/0
+menorah/0
+claver/0
+proscenium/0
+chewing out/1
+put up/0
+batrachian/0
+mickle/0
+good/0
+undulate/0
+dog-iron/0
+tie/0
+wind instrument/0
+rendition/1
+bondage/1
+scholarship/1
+tin/0
+mental picture/1
+tip/0
+persuasiveness/1
+bandana/0
+tactual sensation/1
+laugh/1
+lie with/0
+tush/0
+adoration/1
+fill-in/1
+unhappiness/1
+love story/1
+check/0
+walker/0
+lambast/0
+deed of conveyance/1
+divergence/1
+sleeper/0
+malignment/1
+jitney/0
+affixation/1
+jounce/1
+frigidity/1
+harm/1
+oppugn/1
+military posture/1
+hassock/0
+rope/0
+fickleness/1
+hostelry/0
+tripod/0
+single-foot/0
+motive/1
+averting/1
+tranquillize/1
+infirmity/1
+effectiveness/1
+roof/0
+ticker/0
+cheek/0
+cummerbund/0
+rook/0
+enormousness/1
+work up/1
+cheer/0
+avow/0
+tinker/0
+permit/1
+well/0
+thunderhead/0
+handling/1
+shake off/0
+prognosticate/1
+romance/1
+breadth/1
+pile/0
+artistry/1
+fastening/1
+belted ammunition/0
+social lion/0
+pioneer/0
+field of operations/0
+tripping/0
+conjecture/1
+take over/0
+woman of the house/0
+sash/0
+hungriness/1
+flout/0
+hate/1
+billow/0
+sass/0
+flow/0
+therapist/0
+Ngaio Marsh/0
+conceit/0
+risky venture/1
+crabmeat/0
+jurist/0
+felicity/1
+pilus/0
+custody/0
+hatchet job/1
+sari/0
+Gaul/0
+remit/0
+larboard/0
+malevolent/1
+cordial reception/1
+coach/0
+woman/0
+fuck/0
+juvenility/1
+ankle bracelet/0
+toe/0
+puerility/1
+hotshot/0
+take a leak/0
+scrap/0
+top/0
+honesty/1
+noise/1
+have/0
+fraternity/1
+shorts/0
+forfeiture/1
+roast/0
+toy/0
+haul/0
+avail/1
+manner of speaking/1
+quilt/1
+quat/0
+stupidity/1
+hydrofoil/0
+question/1
+lover/0
+spirit/1
+fatuity/1
+whirlpool/0
+produce/0
+gewgaw/1
+picture/1
+tower block/0
+cheat/0
+catamount/0
+thanksgiving/1
+witch/0
+oral fissure/0
+gasconade/0
+prat/0
+capital/0
+minor/0
+cop/0
+billfold/0
+pantyhose/0
+spook/0
+Eden/0
+cot/0
+kitchen range/0
+cow/0
+straits/0
+bruise/1
+gown/0
+gabfest/1
+Education/1
+calorie-free/0
+raise/0
+spoon/0
+circumspection/1
+call for/1
+rove/0
+pram/0
+pipe/0
+streetcar/0
+dish the dirt/1
+derriere/0
+revere/1
+representative/0
+foul-up/0
+pigeon/0
+lav/0
+circumstances/1
+law/1
+pomposity/1
+yack away/0
+have a go at it/0
+Osmanli/0
+parapraxis/0
+cable car/0
+pardon/1
+crave/1
+plenty/0
+rainwater/0
+brainiac/0
+adventure/1
+condition/1
+ca-ca/0
+Eddy/0
+gratification/1
+Death/1
+try/0
+underdrawers/0
+garden egg/0
+kitchen stove/0
+rarity/0
+black eye/0
+Bench/0
+step on it/1
+mailman/0
+lavatory/0
+chatter/0
+motorcar/0
+trustfulness/1
+Greek valerian/1
+sorrel/0
+draftsman/0
+Pyramid/0
+wound/1
+haze/0
+becalm/1
+slyboots/0
+floor/1
+possibility/1
+caboose/0
+wounded/1
+flub/0
+mock up/0
+Mobile River/0
+come-on/0
+doctor/0
+inflate/0
+skirmish/0
+obnubilate/0
+dishful/0
+glisten/1
+pity/1
+freshness/1
+infatuation/1
+tum/0
+leg/0
+concern/1
+dinghy/0
+lei/0
+vitriol/1
+mountain/0
+integrity/1
+proofreader/0
+Ussher/0
+glister/1
+pith/0
+state/0
+dock/0
+leu/0
+dough/0
+pad of paper/0
+calm down/1
+clock time/1
+motivating/1
+Village/0
+nestling/0
+redact/0
+opulence/1
+synagogue/0
+opposite/1
+piss/0
+pack/0
+waste basket/0
+canalise/0
+lightheaded/0
+cartridge/0
+well out/0
+invidia/1
+chouse/0
+retentiveness/1
+cut/0
+stave/0
+colonist/0
+snake pit/0
+battery/0
+starve/1
+dread/1
+tsunami/0
+godmother/0
+scantling/0
+mettle/0
+humour/1
+igniter/0
+sense of humor/1
+attach/0
+Caesarism/1
+ankle/0
+record book/0
+inclination/1
+give the axe/0
+think/1
+thirst/1
+force out/0
+sapience/1
+claw/0
+torture/0
+tittle-tattle/1
+watch/0
+speech/1
+loincloth/0
+chase after/0
+pluck/0
+polish/1
+cabinet/0
+nimbus/1
+principle/1
+lid/0
+vegetable oil/0
+state of grace/1
+smell/1
+frill/1
+initiate/0
+manor/0
+glare/0
+lip/0
+give notice/0
+deception/1
+dying/1
+little girl/0
+vitality/1
+weakened/1
+shoot/0
+beldam/0
+baddie/0
+pullulate/0
+glass/0
+chest/0
+sleuth/0
+galleon/0
+doubt/1
+jacket/0
+develop/0
+give suck/0
+magic spell/0
+frailty/1
+computing device/0
+actor's assistant/0
+marshland/0
+Italian sandwich/0
+assume/0
+aubergine/0
+immorality/1
+destiny/1
+memory/1
+motivation/1
+pain in the neck/1
+house/0
+shock absorber/1
+specter/0
+latria/1
+obeah/0
+gumshoe/0
+majority rule/1
+masher/0
+give the sack/0
+shoring/0
+evaluator/0
+limelight/0
+pail/0
+pain/1
+center/0
+seismic disturbance/1
+shore/0
+refusal/1
+teen/0
+licking/1
+chlorine/0
+teem/0
+foreshadow/1
+poke fun/0
+cooler/0
+breadbasket/0
+moderation/1
+knapsack/0
+short/0
+commonwealth/1
+valetudinarianism/1
+befuddle/0
+feces/0
+inundate/0
+manse/0
+mad apple/0
+unenviable/1
+cabbage/0
+reckoner/0
+palm/0
+slip one's mind/0
+plume/0
+breastfeed/0
+motorbus/0
+silver dollar/1
+batter/0
+warmth/1
+candelabrum/0
+roads/0
+muffin/0
+doings/1
+ignitor/0
+watch chain/0
+coast/0
+moolah/0
+Creek/0
+dolly/0
+fill out/0
+electrical shock/1
+pant/0
+pencil eraser/0
+teaching/1
+house painting/0
+cool off/1
+dome/0
+lop/0
+shelve/0
+bloomer/0
+lot/0
+glasses/0
+computer/0
+roach/0
+manus/0
+congressman/0
+prop/0
+William Green/0
+Green River/0
+Charles Percy Snow/0
+battlewagon/0
+easement/1
+prow/0
+fuss/0
+wealth/1
+sentinel/0
+wallet/0
+prod/0
+doll/0
+car park/0
+centre/0
+hound/0
+leeway/1
+bedside/0
+prof/0
+postulate/1
+idiot box/0
+overawe/0
+fallal/1
+Christian Bible/0
+absurdity/1
+parentage/1
+Usher/0
+crumple/0
+clink/0
+clip/1
+military personnel/0
+precariousness/1
+Hell/0
+oasis/0
+door/0
+possession/1
+solecism/0
+emptiness/1
+dodger/0
+execration/1
+system of weights/0
+exhort/0
+inscription/1
+affair/1
+necessitate/1
+womanhood/0
+jewelry/0
+adept/0
+curiosity/0
+sacrifice/1
+teller/0
+wharfage/0
+stays/0
+congratulate/1
+meekness/1
+fervor/1
+cavalryman/0
+CAT/0
+expedience/1
+Muscat and Oman/1
+head up/0
+galosh/0
+entertain/0
+ease/1
+Philip Dormer Stanhope/0
+chew up/0
+memorial park/0
+tabernacle/0
+publishing firm/0
+good will/1
+jealousy/1
+teepee/0
+judiciary/0
+reproof/0
+bike/0
+principal/0
+pare/0
+manpower/0
+relief/1
+park/0
+tuffet/0
+absolutism/1
+velocity/1
+dope/0
+confabulate/0
+build/1
+canalize/0
+trumpery/1
+splendour/1
+lightbulb/0
+double-decker/0
+vertebral column/0
+apartment/0
+tolerate/0
+dearest/1
+stack/0
+cubicle/0
+onion plant/0
+top dog/0
+exemption/1
+compassion/1
+crabs/0
+spend a penny/0
+tramcar/0
+crack/0
+bind/0
+breeches/0
+pate/0
+record/0
+Lion/0
+exemplar/0
+beads/0
+exuberance/1
+yap away/0
+Jockey shorts/0
+adjudicate/0
+auspicate/1
+tee shirt/0
+pass/0
+going/1
+shock/1
+impact/1
+have it away/0
+milk/0
+mavin/0
+adulthood/1
+easy/0
+partisanship/1
+take chances/1
+mental imagery/1
+bucket/0
+bow down/0
+hokum/1
+natural law/1
+smear/1
+dory/0
+treatment/1
+lodgings/0
+ululate/0
+racing yacht/0
+spectre/0
+kerfuffle/1
+Bible/0
+planetary house/0
+mental rejection/1
+ghostwriter/0
+onward motion/1
+mint/0
+caput/0
+grasp/0
+prefigure/1
+grass/0
+brag/0
+hotel/0
+Leo the Lion/0
+dish antenna/0
+acquisition/1
+addle/0
+mind/1
+suburban area/0
+reverence/1
+natural process/1
+emergence/1
+involve/1
+Logos/0
+federal agent/0
+shoes/0
+tabularize/0
+hell on earth/0
+forcefulness/1
+stage/0
+agentive role/0
+waiter/0
+spotlight/0
+go for/1
+fuzz/0
+Chaos/1
+piece of ass/0
+cleaning lady/0
+stocking/0
+perdition/0
+dip/1
+organ pipe/0
+exemplary/0
+lookout/0
+trimness/0
+bird/0
+room decorator/0
+Mary Jane/0
+info/1
+shore up/0
+chairperson/0
+stray/0
+test/1
+traveling bag/0
+knee breeches/0
+conviction/1
+grape/0
+lolly/0
+rowboat/0
+pawl/0
+freezer/0
+paradise/0
+expiration/1
+acres/0
+chuck/0
+railway locomotive/0
+magnetic inclination/1
+distract/1
+squeeze/0
+Ottoman Turk/0
+back/0
+training/1
+title/1
+mist/0
+miss/0
+watchband/0
+undershirt/0
+duration/1
+Prunella modularis/0
+ferry/0
+pushcart/0
+human/0
+chimney corner/0
+prince/0
+shoal/0
+knockout/0
+bring down/0
+greenness/0
+step-in/0
+length/1
+advert/1
+permission/1
+babe/0
+warmheartedness/1
+set ashore/0
+lovingness/1
+mess around/0
+beach/0
+baby/0
+letter carrier/0
+neck opening/0
+rhetorician/0
+flip-flop/0
+chill out/1
+misgiving/1
+verity/1
+Felis onca/0
+weight down/0
+pellucidity/1
+leger/0
+chiffonier/0
+pitch/1
+trueness/1
+fair sex/0
+hydroplane/0
+kindness/1
+fear/1
+torrent/0
+chalet/0
+appreciation/1
+stall/0
+litigate/1
+mitt/0
+boxershorts/0
+letdown/1
+congresswoman/0
+Tabernacle/0
+field/0
+birthplace/0
+Deepfreeze/0
+curse/1
+doc/0
+Orange River/0
+farting/0
+evaluate/0
+dog/0
+server/0
+familiarity/1
+upset/1
+don/0
+curve/0
+skid/0
+discombobulate/0
+noggin/0
+dickie-seat/0
+dot/0
+gentle wind/0
+stamp/1
+caoutchouc/0
+chicane/0
+mention/1
+abomination/1
+Energy/1
+stream/0
+condemnation/1
+musical theme/1
+ship's galley/0
+nurse/0
+herald/0
+brim/0
+crime/1
+man/1
+stand/0
+leisure/1
+gimcrack/1
+computer mouse/0
+storage tank/0
+chit chat/1
+cultivation/1
+addict/0
+urn/0
+virtuoso/0
+dental plate/0
+field glass/0
+tank car/0
+Son/0
+gearing/0
+breastpin/0
+causerie/1
+succor/1
+spectacles/0
+inundation/0
+bobbysock/0
+domestic ass/0
+distinctive feature/1
+Snow/0
+bait/0
+use/1
+mouthpiece/0
+flood lamp/0
+feel/1
+casino/0
+teenage/0
+sadness/1
+get laid/0
+bedlam/1
+inclination of an orbit/1
+strip/0
+luxuriousness/1
+grain/0
+residence/0
+maid/0
+combine/1
+brook/0
+approximation/1
+broom/0
+masticate/0
+sexual love/1
+getup/0
+flood tide/0
+resourcefulness/1
+background/0
+haze over/0
+stair/0
+presage/1
+Equus asinus/0
+enthrallment/1
+fidelity/1
+conceive/1
+sleep with/0
+falderol/1
+fountainhead/0
+swarthiness/1
+gentleman's gentleman/0
+nonsense/1
+ball/0
+Department of Energy/1
+fanny/0
+men/0
+make/0
+fulfil/1
+rebuke/0
+triggerman/0
+waving/0
+hummock/0
+thread/0
+mango/0
+stake/1
+dub/0
+intensity/1
+fright/1
+orange/0
+pauperization/1
+take a chance/1
+dud/0
+backpack/0
+coon bear/0
+lodge/0
+window sash/0
+bathing machine/0
+breast/0
+necropolis/0
+mercy/1
+tamper/0
+curl/0
+interpreting/1
+hotdog/0
+lugubriousness/1
+hatful/0
+commit/1
+meaninglessness/1
+beaut/1
+sorrow/1
+human activity/1
+branching/0
+green-eyed monster/1
+bank/1
+dejection/0
+literary criticism/1
+bang/0
+brokenheartedness/1
+long suit/1
+Meleagris gallopavo/0
+vexation/1
+moderate/0
+roll down/0
+upheaval/1
+boxer/0
+wolf down/0
+sun lamp/0
+mall/0
+amour/1
+police force/1
+ritual killing/1
+execute/1
+Sun/0
+flood/0
+booth/0
+bawling out/1
+loading dock/0
+snowfall/0
+examine/0
+invective/1
+vigor/1
+association/0
+believe/1
+remember/1
+tin can/0
+trooper/0
+butterfly/1
+Davenport/0
+destruction/1
+acquit/0
+room access/0
+underclothes/0
+twinkle/1
+middle/0
+bother/1
+star/0
+childhood/1
+lasso/0
+wolf/0
+blizzard/0
+ottoman/0
+yurt/0
+piddle/0
+sticker/0
+slant/0
+appeal/0
+swamp/0
+tall mallow/0
+tepee/0
+clearness/1
+stag/0
+stab/0
+inspire/0
+breaking wind/0
+impart/0
+perambulator/0
+progress/1
+glide/0
+eyeglasses/0
+agent/0
+salvation/1
+woodland/0
+chute/0
+grapevine/0
+suffering/1
+man and wife/1
+approximate/0
+vigil/0
+invest/0
+arena/0
+enhancement/1
+undulation/0
+invertebrate foot/0
+ferociousness/1
+cat bear/0
+move on/1
+nominate/1
+send away/0
+specs/0
+barn/0
+wood/0
+loot/0
+march on/1
+f number/1
+bare/0
+sports fan/0
+frisson/1
+barf/0
+book of account/0
+surprise/0
+articulatio talocruralis/0
+evilness/1
+suitcase/0
+uneasiness/1
+light-colored/0
+crank/0
+look/1
+modelling/0
+retch/0
+assurance/1
+goggles/0
+clipper ship/0
+regulator/0
+bone up/0
+forefather/0
+speechmaker/0
+defer/0
+knock/0
+distinctiveness/1
+pickaxe/0
+mass/0
+Corvus/0
+fatuousness/1
+jurisprudence/1
+beast/0
+attack aircraft carrier/0
+bitter/1
+speed/1
+railroad tie/0
+atomic number 17/0
+apple/0
+submarine sandwich/0
+common/0
+interest/1
+berth/0
+poor boy/0
+mash/1
+murkiness/0
+speechifier/0
+immature/0
+lucidness/1
+sumptuousness/1
+judicial decision/1
+pitilessness/1
+waistband/0
+rising tide/0
+free weight/0
+brotherly love/1
+frangibility/1
+riches/1
+occultation/0
+attic/0
+avalanche/0
+step/0
+bash/0
+medulla oblongata/0
+religious service/1
+base/0
+stem/0
+spotter/0
+trend/1
+sunshine/0
+arctic/0
+ungainly/1
+pushover/0
+botheration/1
+mop/0
+tie-up/0
+loss/1
+humor/1
+mow/0
+watch over/0
+light-green/0
+hacienda/0
+workforce/0
+still/1
+van/0
+work/1
+Isle of Man/0
+cruller/0
+constitute/1
+vas/0
+utilization/1
+grapeshot/0
+birdcage/0
+call up/1
+peppiness/0
+Wave/0
+aunty/0
+James Ussher/0
+bellyache/0
+inglenook/0
+terminate/0
+subway system/0
+word/1
+swath/0
+mannerism/1
+theory/1
+old bag/0
+Chesterfield/0
+love/0
+flock/0
+poorness/1
+decorator/0
+lingua/0
+tongue/0
+fashion model/0
+monkey around/0
+architect/0
+tabularise/0
+granddaddy/0
+enjoy/1
+pelter/0
+foundation/0
+coppice/0
+leotards/0
+take aim/0
+ear/0
+verify/0
+sour grass/0
+reward/1
+bejewel/0
+moo-cow/0
+visual aspect/1
+buckle/0
+opinion/1
+monastery/0
+hair's-breadth/0
+devotion/1
+cutting/0
+jinx/0
+gingery/0
+helping hand/0
+insult/1
+voice/0
+unaccented/0
+prognostication/1
+promised land/0
+appal/1
+turn over/0
+locoweed/0
+threshold/0
+true cat/0
+railroad car/0
+portfolio/0
+catchment basin/0
+Word of God/0
+charwoman/0
+photographic plate/0
+suckle/0
+work force/0
+discover/1
+spell/0
+interrogatory/1
+cascade/0
+maven/0
+vex/1
+townspeople/0
+capture/0
+peregrine/0
+dangerous undertaking/1
+flim-flam/0
+armed service/1
+estimation/1
+demeanour/1
+andiron/0
+play false/0
+ball over/1
+pugilist/0
+Villa/0
+turnout/0
+throw away/0
+irreality/1
+castanets/0
+common carrier/0
+captivate/0
+enmity/1
+prescribed/0
+provenance/0
+sprightliness/1
+C. P. Snow/0
+calf love/1
+road roller/0
+public opinion/1
+sully/1
+accompaniment/0
+shooting star/0
+grinder/0
+eff/0
+soundness/1
+grave/0
+lightsome/0
+eternal sleep/1
+toad/0
+Service/1
+greens/0
+zoological garden/0
+interrogative sentence/1
+choler/1
+swarm/0
+flatus/0
+temple/0
+slip-up/0
+knoll/0
+Cancer the Crab/0
+knock about/0
+watershed/0
+life-time/1
+hands/0
+egg/0
+braveness/1
+get-up-and-go/1
+Bob Hope/1
+leading/1
+landrover/0
+ego/1
+laptop/0
+scow/0
+branch/0
+urge/0
+anguish/1
+music/1
+waistline/0
+gramme/0
+understanding/1
+vim/1
+educate/0
+verbalise/0
+true sparrow/0
+inept/1
+packer/0
+mayor/0
+version/1
+sleep together/0
+Felis concolor/0
+have words/0
+realness/1
+flirt/1
+guess/0
+science/1
+homemaker/0
+pilfer/0
+endowment/1
+throw off/0
+snack counter/0
+prudence/1
+forest/0
+pull the wool over someone's eyes/0
+taxicab/0
+Capricorn the Goat/0
+BM/0
+sleep/1
+go-cart/0
+pinna/0
+submarine/0
+antipathy/1
+selective information/1
+obelisk/0
+boldness/0
+sleet/0
+behavior/1
+misrepresentation/1
+musician/0
+sweep/0
+flavour/1
+learn/0
+pipework/0
+neck/0
+pubic louse/0
+pagoda/0
+CT/0
+Elmer Reizenstein/0
+Inachis io/0
+wraith/0
+moving ridge/0
+eternal rest/1
+leash/0
+sweet/1
+beading/0
+cribbage/0
+youth hostel/0
+republic/1
+stud/0
+official/0
+Cl/0
+garnish/0
+achiever/1
+young woman/0
+railroad train/0
+locomotor/0
+gemstone/0
+caddie/0
+whirlwind/0
+shack/0
+assessment/1
+autonomy/1
+palm tree/0
+heart and soul/0
+orchard apple tree/0
+gibe/0
+cottage/0
+bolt of lightning/0
+provenience/0
+discrimination/1
+tea caddy/0
+artillery/0
+faint/0
+need/1
+nightgown/0
+shade/0
+jail/0
+typewriter/0
+educational activity/1
+gramps/0
+volume/0
+Charles James Fox/0
+sun-ray lamp/0
+underworld/0
+loose/0
+relaxation method/1
+ventilate/0
+baggage/0
+backside/0
+blackguard/0
+mottle/0
+spoken communication/1
+simmer down/1
+accomplish/1
+engine/0
+medal/0
+stroller/0
+photographer/0
+end/1
+bollock/0
+satellite/0
+mistake/0
+enthrall/1
+rich/1
+chin-wagging/1
+scud/0
+rice/0
+prodding/0
+calmness/1
+joker/0
+pronounce/0
+talking to/1
+slew/0
+swear/1
+shaft/0
+atmosphere/0
+gift/1
+decorate/1
+human race/1
+education/1
+railcar/0
+love life/1
+knee pants/0
+release/1
+steamroller/0
+pipage/0
+dockage/0
+rancor/1
+nan/0
+brave/1
+DOE/1
+judge/0
+nap/1
+darkness/1
+abominate/1
+defile/0
+olfactory organ/0
+idiosyncrasy/1
+comport/0
+astragal/0
+verbalize/0
+philander/1
+allegiance/1
+forte/1
+overnighter/0
+wariness/1
+compose/0
+giraffe/0
+roll in the hay/0
+valet/0
+theatre of operations/0
+jacket crown/0
+dhow/0
+synthetic rubber/0
+singer/0
+tone/1
+tv set/0
+townsfolk/0
+debility/1
+obloquy/1
+swell/0
+holiday/1
+barrack/0
+manufacturer/0
+crude/0
+green goddess/0
+endearment/1
+shore leave/1
+vacuum/1
+manufacturing business/0
+potato/0
+shark/0
+resplendency/1
+focal ratio/1
+run a risk/1
+downpour/0
+compassionateness/1
+err/0
+television/0
+grandmother/0
+high mallow/0
+cloudburst/0
+chairman/0
+tiddler/0
+mental disorder/1
+unripe/0
+hatchet/0
+account book/0
+bangle/1
+resplendence/1
+slip/0
+Milk River/0
+nightdress/0
+temperament/1
+avant-garde/0
+topsy-turvyness/1
+Hope/1
+choreographer/0
+honor/1
+pedagogy/1
+condominium/0
+transmission channel/0
+laugh at/0
+equanimity/1
+big businessman/1
+Good Book/0
+Father of the Church/0
+electric battery/0
+MD/0
+duomo/0
+deprivation/1
+noesis/1
+bureau/0
+belt along/1
+entrance/0
+prison term/1
+bandoleer/0
+woods/0
+intimately/0
+estate/0
+cookhouse/0
+back pack/0
+prison guard/0
+brass/0
+come along/1
+foretell/1
+Timothy Miles Bindon Rice/0
+parenthood/1
+ginger/0
+Sunday/0
+NJ/0
+inconvenience/1
+malarkey/0
+rill/0
+Panthera tigris/0
+rich people/1
+haircloth/0
+slog/0
+barrage/0
+self-will/1
+meander/0
+frigidness/1
+progression/1
+trick/0
+ruefulness/1
+acculturation/1
+watch bracelet/0
+kitty/0
+exalt/1
+snitch/0
+wind up/0
+public security/1
+wampum/0
+haven/0
+buffalo/0
+drawer/0
+prop up/0
+Host/0
+transport/0
+employment/1
+pencil/0
+shank/0
+relievo/1
+rubber eraser/0
+estuary/0
+viciousness/1
+gestate/0
+Leo/0
+fecal matter/0
+founding father/0
+putting green/0
+remainder/1
+sleuthhound/0
+clumsy/1
+medulla/0
+commode/0
+clipping/0
+ring/0
+oddity/0
+violent storm/0
+shift/0
+couch/0
+ramify/0
+sound judgement/1
+cheese/0
+armoire/0
+thorax/0
+cultism/1
+surgical gown/0
+pour forth/0
+moorage/0
+shoulder/0
+memory board/1
+the three estates/0
+pearl/0
+crustal plate/0
+granulate/0
+see red/1
+dark-green/0
+relaxation/1
+forgiveness/1
+intriguer/0
+examen/1
+inking pad/0
+toss/1
+anxiousness/1
+confound/0
+eye/0
+knock off/0
+air current/0
+deposit/0
+automobile trunk/0
+telephone set/0
+tomahawk/0
+flash/0
+Wisdom of Solomon/1
+disturbance/1
+mattress/0
+mosque/0
+whizz/0
+occult/0
+dandy/0
+enemy/1
+weight unit/0
+coronate/0
+shiner/0
+infernal region/0
+waterfall/0
+mantrap/0
+backbone/0
+cemetery/0
+corset/0
+headspring/0
+triumph/1
+electric light/0
+slumber/1
+impoverishment/1
+gram/0
+gran/0
+supporter/0
+devotedness/1
+embellish/0
+diggings/0
+brassiere/0
+gossip/0
+pantie/0
+philia/0
+describe/1
+school principal/0
+suck/0
+difference of opinion/1
+heartsease/1
+fall away/0
+humanness/1
+Panthera leo/0
+TV/0
+uncloudedness/1
+knickers/0
+foam/1
+jazz/0
+good example/0
+sweetening/1
+Punica granatum/0
+briefs/0
+graphic designer/0
+denture/0
+clemency/1
+assault and battery/0
+electric-light bulb/0
+pectus/0
+grandad/0
+specialness/1
+slue/0
+Truth/1
+hooking/0
+weightiness/0
+greenish/0
+imagine/1
+town/0
+gird/0
+whack/0
+might/1
+upchuck/0
+incommode/1
+fourth dimension/1
+puppy love/1
+girl/0
+imaging/1
+bean plant/0
+flutter/1
+surmise/1
+museum/0
+ignorance/1
+embarrassing/1
+patriotism/1
+melodic line/0
+duck soup/0
+occupy/1
+string/0
+submit/0
+intrude/0
+psychological disorder/1
+Baron Snow of Leicester/0
+summit/0
+conclusion/1
+African tea/0
+terra firma/0
+drumhead/0
+splashiness/1
+wad/0
+wag/1
+factor/0
+school day/0
+news/1
+delivery/1
+pinch/0
+rack/0
+green/0
+race/1
+barometer/0
+looking glass/0
+Hans C. J. Gram/0
+sculpture/0
+off-white/0
+head teacher/0
+rumormonger/1
+cut down/0
+sophistry/1
+sensation/0
+gist/0
+refer/1
+cassino/0
+tenaciousness/1
+caprine animal/0
+risk/1
+play/0
+detonator/0
+plaything/0
+betterment/1
+brushwood/0
+raft/0
+gage/0
+keister/0
+fan/0
+temblor/0
+hatred/1
+crush/1
+grandma/0
+iglu/0
+life history/1
+catch/0
+plat/0
+dashboard/0
+brooch/0
+metre/1
+give/0
+bodily fluid/1
+army tank/0
+leisure time/1
+intelligence agency/1
+ruthlessness/1
+comfortably/0
+rendering/1
+tomentum/0
+gimcrackery/1
+telecasting/0
+build up/1
+mastermind/0
+metro/0
+suit/0
+cattle ranch/0
+necktie/0
+hump/0
+study/0
+backrest/0
+Education Department/1
+bomber/0
+purity/1
+coin bank/0
+portion/1
+direct/0
+grandpa/0
+betise/1
+rivulet/0
+commons/0
+supermarket/0
+reliever/1
+confuse/0
+Friend/0
+wee/0
+inspection and repair/1
+computerized axial tomography/0
+wed/0
+wharf/0
+hoo-ha/1
+physician/0
+armored combat vehicle/0
+Pancho Villa/0
+hammock/0
+human foot/0
+cervix/0
+grip/0
+tornado/0
+tenement house/0
+diddle/0
+faux pas/0
+dressing down/1
+veneration/1
+pep pill/1
+bucket along/1
+locomotive engine/0
+Crown/0
+shirt/0
+wanton/0
+cervid/0
+width/1
+rage/0
+shabu/0
+nub/0
+hulk/0
+board/0
+potbelly/0
+mooring/0
+Isaac Bashevis Singer/0
+thrall/1
+monkey/0
+arrest/1
+Grace/1
+baby carriage/0
+nut/0
+fen/0
+sagaciousness/1
+human beings/1
+bear cat/0
+rumor/1
+overflow/0
+whale/0
+foil/0
+information processing system/0
+strain/0
+roadstead/0
+rain/0
+respite/1
+trouble oneself/1
+remonstrate/0
+prorogue/0
+artificial satellite/0
+red ink/1
+rail/0
+tranquil/1
+voyage/0
+electric chair/0
+roving/0
+choker/0
+cereal/0
+overhaul/1
+shekels/0
+effect/1
+cruise/0
+producer/0
+wellspring/0
+studhorse/0
+sugar/0
+game/0
+wakeful/0
+hombre/0
+faith/1
+sluttish/0
+rummy/0
+Earth/0
+dressing table/0
+whang/0
+cashier/0
+hospitality/1
+sea-coast/0
+Menorah/0
+blunder/0
+superbia/1
+lawyer/0
+toad frog/0
+conceitedness/0
+butter/0
+fondness/1
+wit/1
+gale/0
+wiz/0
+spurring/0
+Stalinism/1
+gall/1
+Ailurus fulgens/0
+designer/0
+futon/0
+playpen/0
+inconstancy/1
+gouge/0
+spur track/0
+whiz/0
+pillow slip/0
+defame/1
+visit/0
+headache/1
+Ailuropoda melanoleuca/0
+escapade/1
+gaol/0
+life sentence/1
+indorse/0
+aversion/1
+fit/0
+handcart/0
+docking facility/0
+uprooter/0
+make water/0
+giant/0
+satin flower/1
+rima oris/0
+digs/0
+grouse/0
+overcharge/0
+Reginald Marsh/0
+Allium cepa/0
+grow/0
+urging/0
+brinjal/0
+ramp/0
+peach/0
+posterior/0
+ensuant/0
+corporate trust/1
+stewardess/0
+name calling/1
+interpretation/1
+have it off/0
+peace/1
+consideration/1
+tabular array/0
+beseem/0
+brother/0
+hurt/1
+frank/0
+beldame/0
+bm/1
+glassful/0
+aerate/0
+James Usher/0
+intimacy/1
+groundwork/0
+practice of law/1
+foot/0
+humanity/1
+charge/0
+tranquilize/1
+surmisal/1
+vox populi/1
+attainment/1
+quicken/1
+Calluna vulgaris/0
+cincture/0
+major power/1
+distribution channel/0
+enchant/0
+dress down/0
+superstar/0
+Father/0
+interview/1
+maestro/0
+forking/0
+gape/0
+knickerbockers/0
+faithfulness/1
+vent/0
+betoken/1
+haunt/0
+pass on/0
+stairs/0
+gasp/0
+chaise/0
+instrumentalist/0
+language/1
+fore/0
+observe/1
+gondola/0
+generosity/1
+snare/0
+snarf/0
+youthfulness/1
+woo/1
+light touch/0
+rumourmonger/1
+strictness/1
+workbench/0
+criticism/1
+wienerwurst/0
+slaveholding/1
+Buffalo/0
+perturb/1
+attender/0
+tiredness/1
+bobtail/0
+ribbon/0
+trance/0
+confrontation/1
+electronic computer/0
+jailer/0
+affirm/0
+baseball glove/0
+drainage area/0
+knife/0
+outgrowth/1
+take in/0
+piece/0
+aspiration/1
+fob/0
+red panda/0
+manhood/1
+carry/0
+have intercourse/0
+advantageously/0
+rilievo/1
+foe/1
+elephant/0
+frame/0
+metier/1
+fog/0
+foible/1
+belt ammunition/0
+clash/0
+line-shooting/0
+easing/1
+ft/0
+fox/0
+plunk for/0
+burden/0
+Crab/0
+clasp/0
+desktop/0
+vote down/1
+thenar/0
+plot/0
+skill/1
+trouble/1
+gaud/1
+hovel/0
+oar/0
+put over/0
+attendee/0
+great power/1
+plod/0
+gaucherie/0
+gamble/1
+splice/0
+gm/0
+amphetamine/1
+deport/0
+counter/0
+encyclopedism/1
+rash/0
+dally/1
+fork/0
+immune carrier/0
+angle of inclination/1
+obi/0
+baseball mitt/0
+affray/1
+sedate/1
+foot up/0
+fort/0
+DoJ/1
+promotion/1
+maturity date/1
+lookout man/0
+gawp/0
+exhilarate/1
+tabulate/0
+self-assurance/1
+pickax/0
+abhor/1
+flourish/0
+bitterness/1
+vessel/0
+easily/0
+clams/0
+drag/0
+decease/1
+augur/1
+carrier wave/0
+bathroom/0
+swooning/0
+gawk/0
+leging/0
+crude oil/0
+maturity/1
+breadstuff/0
+favouritism/1
+verb/1
+tissue paper/0
+pediculosis pubis/0
+index/1
+Polymonium caeruleum van-bruntiae/1
+doorway/0
+fry/0
+malign/1
+inconvenience oneself/1
+chalice/0
+legion/0
+cut back/0
+execrate/1
+fascia/0
+Man/0
+peace of mind/1
+become/0
+rascal/0
+longanimity/1
+Dr./0
+pertinacity/1
+male parent/0
+Inferno/0
+fearlessness/1
+bauble/1
+inflation/1
+disposal/1
+goggle/0
+quite a little/0
+whirl/0
+settlement/0
+matrimony/1
+calumniation/1
+gunslinger/0
+do it/0
+unagitated/1
+frailness/1
+sugariness/1
+digest/0
+honestness/1
+intelligence information/1
+eddy/0
+ability/1
+belief/1
+hindquarters/0
+delight/1
+Solanum melongena/0
+mentality/1
+the pits/0
+rattle on/0
+vest/0
+draw/0
+wandering/0
+judgment of conviction/1
+disposition/1
+unclouded/0
+fastness/1
+slip of paper/0
+confab/0
+sumptuosity/1
+muscularity/1
+Cancer/0
+accomplishment/1
+auberge/0
+pomegranate tree/0
+pants/0
+picket/0
+smog/0
+diss/1
+tooshie/0
+locket/0
+contentment/1
+locker/0
+second/0
+beatify/1
+Ottoman/0
+brotherhood/1
+ruling/1
+maturation/1
+jailor/0
+sales event/1
+skirt/0
+swiftness/1
+glaze/0
+Energy Department/1
+communication/1
+tolerance/1
+wipe up/0
+incertitude/1
+calm air/1
+impudence/0
+turmoil/1
+clench/0
+meter/1
+feeling/1
+miserableness/1
+trolley car/0
+weighting/0
+hippodrome/0
+puff/0
+license/1
+entry/1
+small fry/0
+dish aerial/0
+popular opinion/1
+dream/1
+dish/0
+retrieve/1
+panty/0
+thermometer/0
+postpone/0
+heat/1
+hellhole/0
+crab louse/0
+houseboat/0
+displace/0
+food grain/0
+storage/1
+tiller/0
+head/1
+investigator/0
+trouser/0
+oil/0
+reserve/0
+discommode/1
+ataraxis/1
+baby buggy/0
+heap/0
+sympathy/1
+brief/0
+keyboard/0
+ashram/0
+speed up/1
+determine/0
+os/0
+considerably/0
+air travel/0
+camp bed/0
+prodigy/1
+current of air/0
+Caterpillar/0
+hillock/0
+pendent/0
+newness/1
+equip/0
+painting/0
+pandemonium/1
+luxury/1
+communicating/1
+table service/1
+blow out of the water/1
+intelligence service/1
+rocker/0
+dramatic art/0
+American buffalo/0
+nation/0
+church bench/0
+Elmer Leopold Rice/0
+determination/1
+discipline/0
+fucking/0
+domiciliate/0
+pigboat/0
+articulatio humeri/0
+male child/0
+Latinian language/1
+bayou/0
+schooltime/0
+estimate/0
+bookcase/0
+expiry/1
+brand/0
+sorrowfulness/1
+insanity/1
+frustration/1
+recreation/1
+allowance/1
+skyscraper/0
+Ottoman dynasty/0
+puke/0
+law-breaking/1
+seat/0
+bathhouse/0
+sign of the zodiac/0
+wander/0
+attorney/0
+finger cymbals/0
+bridge/0
+pussyfoot/0
+hebdomad/1
+waistcoat/0
+belly/0
+serenity/1
+rule book/0
+activity/1
+ankle joint/0
+cabin/0
+pileus/0
+davenport/0
+Quaker/0
+rapscallion/0
+co-occurrence/0
+waste-paper basket/0
+heel/0
+disturb/1
+lecture/0
+magnate/1
+pump/0
+parking area/0
+Jacob's ladder/1
+teenager/0
+oversupply/0
+washbasin/0
+decision/1
+geartrain/0
+plump for/0
+garage/0
+mogul/1
+shudder/0
+closet/0
+puma/0
+teenaged/0
+adorn/1
+subway/0
+peacock/0
+consequent/0
+country/0
+tv/0
+coruscation/1
+separate/0
+forward motion/1
+furcate/0
+hoagie/0
+diadem/0
+faithlessness/1
+Oman/1
+Crow/0
+making love/1
+slackening/1
+trimming/0
+frankfurter/0
+glass over/0
+debone/0
+tyke/0
+suppose/1
+ghostwrite/0
+leafy vegetable/0
+infliction/1
+flavor/1
+hired man/0
+obscure/0
+failure/1
+unsuccessful person/1
+quake/0
+bolster/0
+know/0
+support/0
+punt/0
+drop/0
+saucer/0
+taking into custody/1
+get along/1
+smirch/1
+imprint/1
+marriage ceremony/1
+gab/1
+apron/0
+learning/1
+aerial tramway/0
+cold/1
+purl/0
+gad/0
+plantation owner/0
+life/1
+bucketful/0
+peace treaty/1
+branch line/0
+honey/1
+screw/0
+examination/1
+gas/0
+settler/0
+computerized tomography/0
+launch pad/0
+snack bar/0
+shriek/0
+manakin/0
+wiseness/1
+work bench/0
+staff of life/0
+spelunk/0
+wee-wee/0
+coke/0
+reading/1
+concomitant/0
+New Jersey/0
+cumbersome/1
+promiscuous/0
+effervesce/1
+dame/0
+intensity level/1
+revel/1
+wet-nurse/0
+torment/0
+nobble/0
+closeness/1
+hell/0
+ontogeny/1
+toy dog/0
+rain cats and dogs/0
+problem/1
+scant/0
+hazard/1
+Book/0
+piece of tail/0
+waterspout/0
+voice communication/1
+friendly relationship/1
+immensity/1
+lambaste/0
+younker/1
+aggrandise/0
+procedural/1
+go after/0
+come/0
+tobacco pipe/0
+Mary Baker Eddy/0
+ill will/1
+push/1
+stamp battery/0
+undersea/0
+forget me drug/0
+unemployment/1
+lift/0
+back up/0
+belch/0
+force/1
+peculiarity/0
+gingerroot/0
+venter/0
+splendor/1
+metrical foot/0
+vagabond/0
+slander/1
+chemist's/0
+port wine/0
+landed estate/0
+catchment area/0
+gem/0
+dart/0
+dorsum/0
+watch out/0
+ghost/0
+lounger/0
+get/0
+dark/1
+computing machine/0
+power/1
+Allium sativum/0
+publishing company/0
+apprehensiveness/1
+enrapture/1
+pickup/0
+becharm/0
+gossiper/1
+abide/0
+brain/1
+pyjama/0
+help/1
+liberalization/1
+metric grain/0
+self/1
+dress/0
+earful/1
+panda/0
+data/1
+hostel/0
+mannequin/0
+onion/0
+harbor/0
+chapeau/0
+drum/0
+vibrate/1
+throttler/0
+military capability/1
+radiocarpal joint/0
+costa/0
+actor's line/1
+bearer/0
+blow/0
+begetter/0
+erudition/1
+sens/0
+development/1
+resource/1
+nuisance/1
+affaire/1
+brace/0
+earthquake/0
+dashing hopes/1
+streamlet/0
+savings bank/0
+core/0
+porthole/0
+home base/0
+famish/1
+ground/0
+faecal matter/0
+dash/0
+ramification/0
+send/0
+activeness/1
+sagacity/1
+ling/0
+purpose/1
+regret/1
+line/0
+link/0
+scale/0
+hero/0
+glaze over/0
+powdered ginger/0
+aggrandize/0
+tempest/0
+omnibus/0
+scalp/0
+pothouse/0
+dicky/0
+nose/0
+shrill/0
+tramway/0
+chairwoman/0
+rain buckets/0
+netherworld/0
+refreshment/1
+bathrobe/0
+cognition/1
+nightlong/0
+confidence/1
+ginmill/0
+smoke/0
+sideslip/0
+follow/0
+limo/0
+piping/0
+Francisco Villa/0
+interrogate/1
+compliance/1
+wretchedness/1
+scamp/0
+warmness/1
+bay window/0
+intend/1
+tie beam/0
+snap/0
+adjectival/1
+authoritarianism/1
+exuviate/0
+waster/0
+grannie/0
+sess/0
+analyse/0
+stylus/0
+panda bear/0
+youth/1
+chaffer/0
+king of beasts/0
+befog/0
+newsboy/0
+life story/1
+angle of dip/1
+sister/0
+trauma/1
+sunglasses/0
+rubberize/0
+groom/0
+Phthirius pubis/0
+wino/0
+dedication/1
+noun/1
+silliness/1
+condo/0
+thoughtfulness/1
+nous/0
+lion/0
+Mary Morse Baker Eddy/0
+marrow/0
+apparent motion/1
+clutch/0
+wind/0
+folly/1
+harbour/0
+carriage/0
+perturbation/1
+daze/1
+buttock/0
+misery/1
+heather/0
+deluge/0
+booster/0
+Boxer/0
+hearsay/1
+persistency/1
+maelstrom/0
+Greenwich Village/0
+juggernaut/0
+lavishness/1
+ontogenesis/1
+strangler/0
+give chase/0
+kernel/0
+backtalk/0
+union/1
+log Z's/1
+deaden/0
+printing/1
+fingerbreadth/0
+winnow/0
+pocketbook/0
+persistence/1
+illustration/0
+pitchfork/0
+difficultness/1
+wrap/0
+buff/0
+glossa/0
+ruiner/0
+articulatio radiocarpea/0
+earth tremor/0
+public figure/1
+Mexican valium/0
+open up/0
+reader/0
+chill/1
+sassing/0
+carving/0
+pompousness/1
+dominate/0
+cruelness/1
+pad/0
+incredulity/1
+foolishness/1
+ambition/1
+Brother/0
+relieve oneself/0
+pal/0
+lite/0
+Church Father/0
+alluvion/0
+area/0
+nirvana/0
+vicious/1
+invitation/1
+paw/0
+military service/1
+rear end/0
+pay/0
+liberalisation/1
+list/1
+sleight/1
+Sir Joseph Banks/0
+bank building/0
+insolate/0
+circumstance/1
+success/1
+authority/1
+peacefulness/1
+child/0
+young/1
+vomit up/0
+interface/0
+sculpt/0
+folie/1
+wisdom/1
+nosepiece/0
+interrogation/1
+come on/1
+treasure/0
+liaison/1
+sand bar/0
+engender/0
+great deal/0
+twine/0
+victory/1
+mobile/0
+peak/0
+quietus/1
+exhilaration/1
+peag/0
+piano player/0
+taint/0
+redemption/1
+playscript/0
+flowerpot/0
+service/1
+snip/0
+denouncement/1
+magazine/0
+sopor/1
+pocket/0
+offense/1
+anoint/0
+lifespan/1
+channel/0
+Polemonium van-bruntiae/1
+wrack/0
+generousness/1
+wrist/0
+motel/0
+overshadow/0
+pee/0
+usher/0
+chapiter/0
+peg/0
+guided missile destroyer/0
+dickie/0
+impuissance/1
+pen/0
+cameo/0
+action at law/1
+pep/0
+skunk/0
+suspender/0
+write/0
+baby-walker/0
+shtup/0
+pes/0
+pew/0
+self-love/0
+loyalty/1
+corporation/0
+bulb/0
+peck/0
+dismiss/0
+birth/0
+picnic/0
+heaven/0
+intelligence/1
+innovator/0
+promontory/0
+winner/1
+analyze/0
+appearing/1
+despair/1
+vacancy/1
+champion/0
+gum/0
+disfavour/1
+form bubbles/1
+gun/0
+iniquity/1
+tickle pink/1
+dapple/0
+simoleons/0
+smogginess/0
+guy/0
+Scheol/0
+rubberise/0
+skirt chaser/0
+shaver/0
+Cascade Range/0
+captivation/1
+chew the fat/0
+Cascades/0
+walkover/0
+wail/0
+hoodwink/0
+accolade/1
+frump/0
+burial site/0
+heading/0
+piece of cake/0
+chilliness/1
+goblet/0
+jammies/0
+caducous/0
+vaporing/0
+Padre/0
+names/1
+framework/0
+undoer/0
+buns/0
+mental disturbance/1
+lesser panda/0
+befit/0
+bunk/1
+chronicle/1
+inferno/0
+Ticonderoga/0
+overcast/0
+arrow/0
+chide/0
+muck about/0
+interrogative/1
+chemist's shop/0
+gracility/1
+self-seeking/1
+diwan/0
+anklets/0
+touch sensation/1
+judgment/1
+duskiness/1
+charity/1
+castling/0
+pit/0
+Malva sylvestris/0
+drinking glass/0
+make love/0
+sneak/0
+shelling/0
+void/1
+swan/0
+solitaire/0
+basin/0
+scandalise/1
+coquette/1
+sunbathe/0
+chick/0
+Shangri-la/0
+senator/0
+girlfriend/0
+cleaning woman/0
+tempt/0
+super C/0
+swab/0
+snow/0
+cartel/1
+evil/1
+governor/0
+dickey/0
+twist/0
+lake/0
+udder/0
+big cat/0
+abide by/1
+take to task/0
+causa/0
+abdomen/0
+accost/0
+cause/1
+lovemaking/1
+sectioned/0
+unity/1
+murk/0
+convey/0
+laurels/1
+land/0
+wooden leg/0
+garlic/0
+wring/0
+chief/0
+bamboozle/0
+forfeit/1
+theater of operations/0
+jaundice/1
+vigour/1
+place of origin/0
+dexterity/1
+becloud/0
+jewellery/0
+conduct/1
+botch/0
+distaste/1
+disoblige/1
+all-night/0
+hero sandwich/0
+burp/0
+string of beads/0
+crony/0
+euphony/1
+marry/0
+pelt/0
+spinal column/0
+justness/1
+discussion/1
+grieve/1
+incidental/0
+figurine/0
+nonsensical/1
+liberty/1
+death chair/0
+pelf/0
+civilisation/1
+disfavor/1
+marsh/0
+inunct/0
+drift/1
+sandbar/0
+wickedness/1
+chaos/1
+mankind/1
+want/1
+pigment/0
+forecast/1
+saving grace/1
+cheeseflower/0
+brutality/1
+reality/1
+difference/1
+coruscate/1
+eruditeness/1
+offend/1
+circle/0
+mug up/0
+butt/0
+crone/0
+headland/0
+reside/0
+interior decorator/0
+chaplet/0
+stooge/0
+realism/1
+drunkard/0
+scrutiny/1
+chase/0
+hoof it/0
+limousine/0
+pot/0
+inwardness/0
+lard/0
+spoonful/0
+detestation/1
+Old World buffalo/0
+coolness/1
+knight/0
+Banks/0
+helplessness/1
+canal/0
+sectional/0
+suit of clothes/0
+retention/1
+cruelty/1
+constabulary/1
+negligee/0
+sandal/0
+gaoler/0
+entrust/1
+arse/0
+religion/1
+yacht/0
+charm/0
+miniature/0
+Bermudas/0
+feelings/1
+publishing house/0
+friendship/1
+antagonism/1
+sculptural relief/1
+comfortableness/1
+floodlight/0
+hired gun/0
+tilt/1
+dining car/0
+public house/0
+hag/0
+faeces/0
+nether region/0
+school/0
+locomotive/0
+hat/0
+grind away/0
+brush/0
+Heaven/0
+last/1
+batch/0
+flattop/0
+weight/0
+favoritism/1
+service of process/1
+night-robe/0
+pry/0
+lash/0
+chalk/0
+tike/0
+angriness/1
+warp/0
+get the better of/1
+turn out/0
+mango tree/0
+taproom/0
+babble/0
+swampland/0
+wrist joint/0
+effort/1
+harshness/1
+married couple/1
+video/0
+brute/0
+thicket/0
+wave/0
+Methedrine/0
+fossil oil/0
+cascade down/0
+acquirement/1
+partiality/1
+pajama/0
+steady/1
+matureness/1
+bandeau/0
+ravish/1
+quieten/1
+thieve/0
+motortruck/0
+loathe/1
+love affair/1
+magical spell/0
+endorse/0
+genius/0
+eatery/0
+woman chaser/0
+clarity/1
+legal brief/0
+medico/0
+mercilessness/1
+time/1
+pub/0
+bravery/1
+edification/1
+swob/0
+vortex/0
+shadow/1
+hurly burly/1
+Canis familiaris/0
+campanile/0
+put/0
+squawk/0
+statuette/0
+offence/1
+grandness/1
+tipi/0
+granddad/0
+bowknot/0
+hex/0
+Goat/0
+tram/0
+Polemonium caeruleum/1
+torpedo/0
+tidy sum/0
+oddment/0
+resultant/0
+infamy/1
+impertinence/0
+mentation/1
+going-over/1
+deep freezer/0
+light/1
+Bermuda/0
+worship/1
+muddle/0
+throttle/0
+thorniness/1
+flowage/0
+falseness/1
+smart/1
+daybed/0
+ornament/1
+idle words/0
+ivory/0
+nipper/0
+theme/1
+smash/0
+berate/0
+impropriety/1
+ledger/0
+barrage fire/0
+desire/1
+torso/0
+chair/0
+goading/0
+trailblazer/0
+eluding/0
+manual dexterity/1
+sword/0
+cravat/0
+accompanist/0
+chat/0
+char/0
+homelessness/1
+fragility/1
+swot/0
+belt out/0
+eating place/0
+beam/0
+trinket/1
+civilization/1
+hie/1
+bead/0
+aviation/0
+stomach/0
+bruit/1
+macho-man/0
+church building/0
+hitman/0
+Elmer Rice/0
+methamphetamine/0
+police detective/0
+church service/0
+bear/0
+grandfather/0
+consider/1
+root on/0
+bean/0
+appealingness/0
+wildcat/0
+hostess/0
+psyche/0
+airwave/0
+lounge/0
+history/1
+money box/0
+eclipse/0
+soak/0
+brake shoe/0
+animosity/1
+hold over/0
+interference/1
+suburbia/0
+pain sensation/1
+condom/0
+bijou/0
+hotfoot/1
+composure/1
+gondola car/0
+weather condition/1
+point/0
+beguile/0
+attachment/1
+look on/0
+stripling/0
+new wave/0
+legal philosophy/1
+coming into court/1
+ceiling/0
+process/1
+Capricorn/0
+unease/1
+philosopher/0
+cat-o'-nine-tails/0
+unreality/1
+fuddle/0
+gun for hire/0
+clear/0
+facia/0
+encounter/0
+clean/0
+manikin/0
+fearfulness/1
+nozzle/0
+electric current/0
+Great Pyramid/0
+mean/1
+Quran/0
+meat/0
+domicile/0
+chew/0
+methamphetamine hydrochloride/0
+hurry/1
+account/1
+uneasy/1
+easiness/1
+appall/1
+beef/0
+joyfulness/1
+U-boat/0
+advance/1
+opine/1
+tramp/0
+scallywag/0
+fashion designer/0
+trip/0
+granny/0
+trim/0
+pomegranate/0
+learnedness/1
+jump/0
+knowledge/1
+sofa/0
+scoundrel/0
+vote out/1
+opportunity/1
+court/1
+chapel/0
+pelt along/1
+venture/1
+bridge over/0
+storage locker/0
+route/0
+enthusiasm/1
+saloon/0
+grease-gun/0
+coronal/0
+stand-in/1
+mirror/0
+divine service/1
+puffiness/1
+shiver/1
+vanity/0
+Koran/0
+opportunism/1
+underclothing/0
+involvement/1
+hoy/0
+spark/1
+back talk/0
+carry out/1
+oculus/0
+vellum/0
+schooner/0
+wedding/1
+bungalow/0
+Garden State/0
+qat/0
+tail/0
+power train/0
+hit man/0
+self-confidence/1
+inaugural/0
+atonement/1
+channelise/0
+military action/1
+major planet/0
+body politic/0
+publicize/0
+seashore/0
+cultivate/0
+cup of tea/0
+junk/0
+imbecility/1
+telly/0
+wizard/0
+purse/0
+goodwill/1
+glass in/0
+battleship/0
+promise/1
+meeter/0
+dramatize/0
+bulge/0
+hold/0
+trail/0
+forestage/0
+rubber/0
+peignoir/0
+underwear/0
+talk/0
+folderal/1
+train/0
+give birth/0
+venerate/1
+one-man rule/1
+baron/1
+stargaze/1
+overprotect/0
+planet/0
+workweek/1
+creep/0
+dissembling/1
+Fox/0
+take/1
+pass water/0
+vision/1
+worldliness/1
+free energy/1
+accompanyist/0
+probity/1
+stave in/0
+reckon/1
+bobbysocks/0
+auditorium/0
+adult female/0
+hand truck/0
+bring forth/0
+tidings/1
+passel/0
+trot/0
+be intimate/0
+flatboat/0
+shopping center/0
+homo/0
+anele/0
+thraldom/1
+tank/0
+slickness/0
+potter/0
+collection plate/0
+chin wag/1
+remembering/1
+intrust/1
+screwdriver/0
+orangish/0
+unhinge/1
+superpower/1
+home/0
+witticism/1
+shape up/1
+detonating device/0
+mail carrier/0
+nosegay/0
+oral cavity/0
+belfry/0
+comforter/1
+Fatherhood/0
+unripened/0
+pouffe/0
+garrotter/0
+president/0
+female child/0
+thunderclap/0
+monocracy/1
+sparkle/1
+liquid body substance/1
+envy/1
+hut/0
+simulation/0
+hope/1
+sea chantey/0
+traducement/1
+tablet/0
+hook/0
+opprobrium/1
+bend/0
+tactile sensation/1
+stadium/0
+action/1
+gauge/0
+penury/1
+apothecary's shop/0
+belt/0
+idolatry/1
+ridicule/0
+hood/0
+overnight case/0
+hoof/0
+disbelief/1
+scintillate/1
+adult male/0
+honk/0
+underground/0
+sensitiveness/1
+impression/1
+set back/0
+oral communication/1
+self-interest/1
+jaguar/0
+lead by the nose/0
+shield/0
+ostrich/0
+pureness/1
+self-command/1
+shopping centre/0
+deliver/0
+gas pedal/0
+zephyr/0
+abbey/0
+sensibility/1
+creek/0
+shoot the breeze/0
+heave/0
+shanty/0
+console table/0
+Mobile/0
+machine/0
+magnetic dip/1
+mercifulness/1
+vastness/1
+dark glasses/0
+teddy/0
+curtain call/0
+footlocker/0
+powerfulness/1
+succour/1
+instance/0
+orbiter/0
+pushchair/0
+cerebrate/1
+thrill/1
+serve/1
+blade/0
+berm/0
+chum/0
+opponent/1
+host/0
+backward/0
+accelerate/1
+ascot/0
+channelize/0
+nursemaid/0
+spate/0
+sophism/1
+barge/0
+dramatise/0
+wholeness/1
+breeze/0
+urban center/0
+steps/0
+heart/0
+trash/0
+crownwork/0
+painter/0
+professor/0
+glom/0
+leaning/1
+master of ceremonies/0
+adolescent/0
+header/0
+laughter/1
+scrubs/0
+sentiment/1
+groove/0
+apparent movement/1
+communication channel/0
+go on/1
+mess/0
+chesterfield/0
+divan/0
+speciality/1
+orange tree/0
+fundament/0
+wristband/0
+mesa/0
+bridge deck/0
+canful/0
+rooter/0
+leadership/1
+Sister/0
+deviation/1
+stern/0
+brandish/0
+strong point/1
+master/0
+privy/0
+caravan/0
+suburb/0
+villa/0
+aircraft carrier/0
+intellection/1
+religious belief/1
+shawl/0
+glue/0
+runnel/0
+link up/0
+theatre/0
+cover/0
+golosh/0
+encyclopaedism/1
+outfit/0
+procession/1
+firedog/0
+fire/0
+bungle/0
+extort/0
+refinement/1
+embossment/1
+swot up/0
+Irish potato/0
+service department/0
+chastisement/1
+pointer/0
+natter/0
+earth-closet/0
+amour propre/0
+distinguish/1
+fraudulence/1
+tartness/1
+wampumpeag/0
+nitty-gritty/0
+taxi/0
+savvy/1
+epithelial duct/0
+howl/0
+tiger/0
+gossipmonger/1
+fray/1
+bulldozer/0
+dickey-seat/0
+meth/0
+shower/0
+jewel/0
+star sign/0
+vomit/0
+luggage compartment/0
+chit-chat/0
+linkup/0
+full-dress/0
+hatbox/0
+honour/1
+khat/0
+adhesion/1
+democracy/1
+ingrain/0
+face/0
+glut/0
+seism/0
+ruff/0
+play tricks/0
+scuttlebutt/1
+throw up/0
+idolization/1
+legging/0
+valet de chambre/0
+daydream/1
+bandanna/0
+saneness/1
+ice/0
+parkland/0
+independence/1
+spike/0
+motorcycle/0
+graveyard/0
+orangeness/0
+ostentation/1
+tavern/0
+Pezophaps solitaria/0
+precious stone/0
+awkward/1
+Jersey/0
+loathing/1
+mountain lion/0
+five/0
+independency/1
+zep/0
+spill/0
+Struthio camelus/0
+durability/1
+take aback/1
+cradle/0
+please/1
+ill at ease/1
+finding/1
+low temperature/1
+hoo-hah/1
+hunger/1
+turnkey/0
+boxing glove/0
+Latin/1
+campaign/1
+judging/1
+blusher/0
+interior designer/0
+discreetness/1
+conflict/1
+scandalize/1
+lawsuit/0
+ebullience/1
+father/0
+Fort Ticonderoga/0
+rule/1
+purge/0
+military strength/1
+rouge/0
+girdle/0
+canvass/0
+Isaac Merrit Singer/0
+footrest/0
+rest period/1
+burial ground/0
+denunciation/1
+resentment/1
+luxate/0
+hurting/1
+wonder/1
+aliveness/1
+corsage/0
+jumper/0
+mansion/0
+shave/0
+Cascade Mountains/0
+inebriate/0
+house decorator/0
+lucidity/1
+spine/0
+waistcloth/0
+gambling casino/0
+bunglesome/1
+give in/0
+city manager/0
+keep an eye on/0
+comment/1
+employ/1
+surcharge/0
+book binding/0
+garter/0
+human being/0
+binding/0
+tingle/1
+autobus/0
+taphouse/0
+photoflood/0
+rump/0
+tenement/0
+grammar/1
+chew out/0
+safety/0
+jeep/0
+dresser/0
+slavery/1
+jeer/0
+typhoon/0
+decoration/0
+dependent/0
+computer storage/1
+eggplant/0
+scathe/1
+crest/0
+humbleness/1
+zip/1
+calculator/0
+public speaker/0
+shoot down/1
+river basin/0
+cabin car/0
+upwind/1
+imagination/1
+resistance/1
+fascination/1
+Turkey/0
+lady of the house/0
+pride/1
+can buoy/0
+Dominicus/0
+legal opinion/1
+rearward/0
+broadcast/0
+distress/1
+steel/0
+heartbreak/1
+diner/0
+thumb/0
+dramatics/0
+church/0
+barroom/0
+publicise/0
+rain down/0
+substitute/1
+railway car/0
+blaze/1
+female parent/0
+fleeceable/0
+emcee/0
+steer/0
+rubble/0
+heavy weapon/0
+buddy/0
+finger/0
+gloominess/1
+sweetness/1
+abstract/0
+fizz/1
+laurel wreath/0
+appearance/1
+true statement/1
+culture/1
+tail end/0
+good deal/0
+caddy/0
+coquet/1
+serve up/0
+first/0
+gum elastic/0
+span/0
+miscue/0
+shirtfront/0
+computer memory/1
+to-do/1
+outpouring/0
+perceptiveness/1
+poll/0
+neckband/0
+shimmy/0
+blooper/0
+hot dog/0
+seacoast/0
+Wisdom/1
+detent/0
+spite/1
+frog/0
+army hut/0
+theater/0
+he-man/0
+poky/0
+disgorge/0
+publicity/1
+burble/0
+bridge circuit/0
+exponent/1
+healer/0
+dagger/0
+drawers/0
+bench/0
+bottom/0
+commitment/1
+nose candy/0
+solicit/1
+poke/0
+Holy Scripture/0
+fortress/0
+nates/0
+pauperism/1
+candelabra/0
+bedevil/0
+publisher/0
+intervention/1
+Robert William Service/1
+bosom/0
+pelting/0
+jest at/0
+vituperation/1
+jakes/0
+pond/0
+death/1
+deportment/1
+steal/0
+initiatory/0
+nonstarter/1
+bring up/1
+imp/0
+despotism/1
+trace/0
+attendant/0
+small town/0
+ruffle/1
+elevator car/0
+rush along/1
+zoo/0
+track/0
+get it on/0
+fortune/1
+chicken feed/0
+high-rise/0
+inn/0
+rush/1
+fingerstall/0
+spew/0
+growth/1
+weave/0
+young person/1
+bawl out/0
+Einstein/0
+natural rubber/0
+sweetheart/0
+tater/0
+accuracy/1
+washbowl/0
+chin wagging/1
+Panthera onca/0
+fart/0
+Wiccan/0
+thermal/0
+farm/0
+rag/0
+nationalism/1
+camber/0
+have sex/0
+grief/1
+inhuman treatment/1
+Milk/0
+navigate/0
+rap/0
+solarize/0
+lensman/0
+underpass/0
+handwriting/0
+pool/0
+Sojourner Truth/1
+manoeuver/0
+Park/0
+exam/1
+spring chicken/1
+promenade/0
+advancement/1
+res publica/0
+bank clerk/0
+enviousness/1
+endure/0
+pony/0
+helpfulness/1
+gin mill/0
+topsy-turvydom/1
+fate/1
+essence/0
+hasten/1
+uncertainty/1
+viridity/0
+prowess/1
+make out/0
+maneuver/0
+kindliness/1
+bombshell/0
+white potato/0
+call into question/1
+begrudge/1
+super acid/0
+ira/1
+stud poker/0
+barbarity/1
+ire/1
+rophy/0
+criminal offense/1
+pleasance/1
+crochet/0
+pee-pee/0
+rationale/1
+chat up/1
+civilise/0
+screwing/0
+handbag/0
+forefront/0
+desperation/1
+will power/1
+bonce/0
+scout/0
+spit/0
+fleet/0
+pusher/0
+ace/0
+enamour/0
+astonishment/1
+saddle/0
+spoken language/1
+odium/1
+annoyance/1
+romanticism/1
+demise/1
+demesne/0
+acclaim/0
+red/1
+posy/0
+bicycle seat/0
+act/1
+jackpot/0
+boniface/0
+magnificence/1
+finish/1
+manducate/0
+hind end/0
+clipper/0
+dreaming/1
+bandolier/0
+accede/0
+Solanum tuberosum/0
+pose/0
+abstemious/0
+upbraiding/1
+unbelief/1
+respect/1
+purloin/0
+castigation/1
+barbarism/1
+parachute/0
+ache/1
+port/0
+shell/0
+bagful/0
+pharmacy/0
+panther/0
+anklet/0
+trust/1
+puddle/0
+incandescent lamp/0
+nightie/0
+trounce/0
+catch some Z's/1
+scoot/0
+solarise/0
+paste/0
+overnight/0
+footslog/0
+behave/0
+erotic love/1
+leg covering/0
+grandeur/1
+happiness/1
+pasta/0
+groundbreaker/0
+light-headed/0
+crack cocaine/0
+courageousness/1
+snoop/0
+pouf/0
+identify/1
+sidekick/0
+pour/0
+pout/0
+label/0
+improvement/1
+duct/0
+crap/0
+truth/1
+lastingness/1
+tap house/0
+uniqueness/1
+cram/0
+low-cal/0
+detest/1
+crab/0
+township/0
+tights/0
+medallion/0
+scalawag/0
+backup/1
+tendency/1
+saree/0
+loosening/1
+sanity/1
+rib/0
+shag/0
+chateau/0
+rig/0
+disappointment/1
+tree trunk/0
+muckle/0
+rim/0
+looker/0
+frock/0
+debris/0
+housecoat/0
+Doroteo Arango/0
+delicacy/1
+brave out/1
+eggs/0
+embroider/0
+testing/1
+rucksack/0
+handle/0
+shoulder joint/0
+script/0
+breechclout/0
+laptop computer/0
+mental capacity/1
+animation/1
+indite/0
+exit/1
+melody/0
+goggle box/0
+courtship/0
+spot/0
+watercourse/0
+fiddle/0
+substructure/0
+blessing/1
+ravisher/0
+Justice/1
+dish up/0
+Lord's Day/0
+slough/0
+doggedness/1
+social movement/1
+aim/0
+Fourth Earl of Chesterfield/0
+city/0
+ail/0
+sophistication/1
+drench/0
+uncle/0
+yack/0
+wealthiness/1
+Romance language/1
+air/0
+courage/1
+defeat/1
+thralldom/1
+bubble/0
+canvas tent/0
+accommodate/0
+tenacity/1
+yield/0
+protagonist/0
+doubtfulness/1
+vacation/1
+speak/0
+terrace/0
+play a joke on/0
+cathedral/0
+tender/0
+Mormon Tabernacle/0
+mortise joint/0
+satisfaction/1
+distinguishing characteristic/1
+recollect/1
+smasher/0
+student lodging/0
+ballock/0
+R-2/0
+meditation/1
+cite/1
+dislocate/0
+wench/0
+chaise longue/0
+acquaintance/0
+movement/1
+Department of Justice/1
+retentivity/1
+shed/0
+painfulness/1
+trim back/0
+cat valium/0
+natural action/1
+glove/0
+body/0
+bloomers/0
+spur/0
+rear/0
+oppositeness/1
+natural endowment/1
+play a trick on/0
+acrimony/1
+spue/0
+spud/0
+buffet/0
+Lunaria annua/1
+bode/1
+abhorrence/1
+watch pocket/0
+delectation/1
+touch/1
+clock/1
+rumour/1
+swipe/0
+dining compartment/0
+credence/0
+gear/0
+bassinet/0
+light bulb/0
+ostentatiousness/1
+military man/0
+potty/0
+rob/0
+osseous tissue/0
+humankind/1
+newspaper publisher/0
+quiver/1
+Department of Education/1
+chemise/0
+weakness/1
+sternness/1
+predict/1
+dissimulation/1
+undermine/0
+television receiver/0
+cattle farm/0
+self-denial/1
+crib/0
+skepticism/1
+smooch/0
+wiener/0
+beadwork/0
+swirl/0
+acerbity/1
+singlet/0
+birdbath/0
+prune/0
+egotism/1
+micturate/0
+laughingstock/0
+small talk/1
+hypothesis/1
+oil color/0
+understructure/0
+white potato vine/0
+potency/1
+thought/1
+divan bed/0
+taste/1
+predisposition/1
+innkeeper/0
+melodic phrase/0
+launch area/0
+graciousness/1
+cleavage/0
+pailful/0
+rising prices/1
+boob tube/0
+jar/1
+calendar week/1
+poverty/1
+sweater/0
+ministration/1
+spousal relationship/1
+nanny/0
+make fun/0
+goodness/1
+tummy/0
+jaw/0
+devotee/0
+get up/0
+margin/1
+oral sex/0
+ketch/0
+demand/1
+succeeder/1
+toilet/0
+sodality/1
+nanna/0
+head word/0
+turkey/0
+slammer/0
+aureole/1
+gloriole/1
+mound/0
+melioration/1
+trim down/0
+menagerie/0
+trolley/0
+read/write head/0
+boodle/0
+automobile/0
+notion/1
+arc/0
+earthly concern/0
+tractor/0
+deep-freeze/0
+patience/0
+grace/1
+ferryboat/0
+Wolf/0
+psychologist/0
+pokey/0
+art/1
+vice/1
+learning ability/1
+edible bean/0
+meteor/0
+broker/0
+wrinkle/0
+call/1
+calm/1
+kick/1
+stop number/1
+ordnance/0
+criminal offence/1
+shit/0
+ask/1
+speech communication/1
+potful/0
+dog collar/0
+Holy Writ/0
+gunman/0
+relaxation behavior/1
+serene/1
+Leslie Townes Hope/1
+urge on/0
+professorship/0
+solace/1
+ass/0
+hairsbreadth/0
+engagement/1
+rue/1
+strength/1
+castle/0
+willpower/1
+lifetime/1
+expiation/1
+run/0
+cant/0
+carry through/1
+bomb/0
+bagger/0
+mouse/0
+mother/0
+view/1
+self-importance/1
+embrocate/0
+perseveration/1
+affiliation/0
+G-string/0
+public eye/0
+jet/0
+molt/0
+circular file/0
+deoxyephedrine/0
+bounder/0
+chest of drawers/0
+dust/0
+palace/0
+worry/1
+epee/0
+bole/0
+mold/0
+telephone/0
+sizeableness/1
+difficulty/1
+agitation/1
+dunnock/0
+gripe/0
+winding/0
+computed axial tomography/0
+telephony/0
+name/1
+crow/0
+bad blood/1
+bolt/0
+sports stadium/0
+crop/0
+forbearance/1
+data processor/0
+hot seat/0
+considerateness/1
+novelty/1
+distance/1
+mood/1
+Scripture/0
+whisker/0
+book/0
+truck/0
+putting surface/0
+show/0
+critique/1
+councilman/0
+jockey/0
+curio/0
+crouch/0
+take a crap/0
+ally/0
+gelt/0
+street/0
+planter/0
+breechcloth/0
+boot/1
+shoe/0
+atmospheric condition/1
+rancour/1
+bonk/0
+substance/0
+jalopy/0
+footstool/0
+bracelet/0
+bone/0
+bond/0
+awe/1
+asperse/1
+discourse/1
+mouth/0
+sibling/0
+rachis/0
+Christian church/0
+kiosk/0
+crotchet/0
+Green/0
+nooky/0
+fuckup/0
+pocket book/0
+sequent/0
+fancy/1
+honey oil/0
+cerebration/1
+call down/0
+Word/0
+modeling/0
+commotion/1
+froth/1
+usage/1
+excruciate/0
+tissue/0
+find out/0
+basinful/0
+cart/0
+forgivingness/1
+cast/0
+gens/1
+malarky/0
+princess/0
+burrow/0
+inapt/1
+case/0
+bowel movement/1
+slick/0
+accelerator/0
+canvas/0
+pain in the ass/1
+outhouse/0
+watch guard/0
+wideness/1
+trunk/0
+drive in/0
+body fluid/1
+intelligence operation/1
+omen/1
+garroter/0
+rely/1
+phone/0
+slide/0
+moor/0
+launching pad/0
+failing/1
+sticky/1
+cark/1
+style/0
+buttocks/0
+waist/0
+vilification/1
+armoured combat vehicle/0
+nookie/0
+card/1
+enthral/1
+natural language/0
+strong suit/1
+care/1
+damage/1
+Justice Department/1
+foeman/1
+aftershock/0
+ill-chosen/1
+self-control/1
+pattern/0
+exercise/1
+mansion house/0
+increment/1
+call back/1
+admirer/0
+estimator/0
+scold/0
+freedom/1
+haversack/0
+cushion/1
+hassle/1
+civilize/0
+comrade/0
+burthen/0
+self-discipline/1
+blood brother/0
+pegleg/0
+reliance/1
+consolation/1
+chandelier/0
+Sir Tim Rice/0
+estate of the realm/0
+passenger vehicle/0
+cut-rate sale/1
+orchis/0
+kill/1
+conductor/0
+melodic theme/1
+get on/1
+catamaran/0
+sunlamp/0
+copse/0
+bridgework/0
+disorder/1
+foreland/0
+vocalizer/0
+disquiet/1
+putter/0
+credenza/0
+detritus/0
+chanty/0
+luck/1
+tyranny/1
+acantha/0
+have a bun in the oven/0
+wrapper/0
+satinpod/1
+influence/0
+cloud/0
+intelligence activity/1
+pratfall/0
+pianist/0
+talent/1
+yaup/0
+scoff/0
+weenie/0
+Giraffa camelopardalis/0
+housewife/0
+speculation/1
+dish out/0
+cave/0
+king/1
+supposition/1
+animus/1
+Pyramids of Egypt/0
+glamour/0
+cable tramway/0
+fenland/0
+persuasion/1
+detective/0
+transfer/0
+schoolhouse/0
+epithet/1
+contumely/1
+bones/0
+boner/0
+nerve/0
+affection/0
+motorcoach/0
+fervour/1
+daughter/0
+launchpad/0
+ascertain/0
+wittiness/1
+denigrate/1
+air out/0
+bowl/0
+Ithiel Town/0
+drainage basin/0
+highlight/0
+adjective/1
+peat bog/0
+joy/1
+sheet/0
+child's play/0
+accompanying/0
+sheep/0
+free grace/1
+rest/1
+move/1
+fit out/0
+yawl/0
+good luck charm/0
+adherence/1
+increase/1
+cougar/0
+glorification/1
+spread/0
+television system/0
+front/1
+depression/1
+spunk/0
+vanguard/0
+toilet table/0
+peacock butterfly/0
+Singer/0
+gloat/0
+canoe/0
+asterisk/0
+revilement/1
+wedge/0
+spokesperson/0
+bag/0
+testicle/0
+crowing/0
+fascinate/0
+suffer/0
+bar/0
+organized religion/1
+traumatise/1
+fluid/0
+portend/1
+enduringness/1
+metropolis/0
+capitulum/0
+personnel casualty/1
+regorge/0
+sweetener/0
+hullabaloo/1
+globe/0
+soaker/0
+depository financial institution/0
+chin-wag/1
+enquiry/1
+drive/1
+screen background/0
+deal/0
+abuse/1
+sureness/1
+tankful/0
+timberland/0
+eyes/0
+early days/1
+sea/0
+earring/0
+see/0
+segmentation/0
+dear/1
+roofy/0
+poser/0
+tremor/0
+contain/0
+notecase/0
+founder/0
+words/1
+medicine/1
+thirstiness/1
+portent/1
+functionary/0
+biography/1
+bozo/0
+put out/1
+admiration/1
+holler/0
+take a shit/0
+metrical unit/0
+saddleback/0
+diagnose/1
+pass judgment/0
+rivet/0
+spyglass/0
+river/0
+courting/0
+lactate/0
+thought process/1
+look out/0
+Hades/0
+bridge player/0
+bed/0
+beauty/0
+deck/1
+domiciliation/0
+boo-boo/0
+be sick/0
+pj's/0
+wedlock/1
+beginner/0
+defamation/1
+igloo/0
+drop away/0
+rearwards/0
+digit/0
+hedge sparrow/0
+mop up/0
+denigration/1
+brainpower/1
+dinero/0
+wastepaper basket/0
+pretentiousness/1
+gazump/0
+music director/0
+splay/0
+permissiveness/1
+anxiety/1
+liveliness/1
+banquette/0
+clothes designer/0
+eyeball/0
+deer/0
+Father-God/0
+carpus/0
+television channel/0
+scintillation/1
+missy/0
+pendant/0
+accelerator pedal/0
+sib/0
+deed/1
+jersey/0
+aunt/0
+savagery/1
+sin/0
+sis/0
+fragrancy/1
+Rice/0
+utilisation/1
+sit/0
+lulu/0
+maiden over/0
+tenderness/0
+living/1
+oven/0
+imaginativeness/1
+retainer/1
+George Fox/0
+banking concern/0
+mundanity/1
+packaging/1
+wreath/0
+afforest/0
+fragrance/1
+chitchat/0
+star topology/0
+pyramid/0
+lull/1
+burying ground/0
+humans/1
+tunnel/0
+amazement/1
+passementerie/0
+hired hand/0
+fulfill/1
+hook shot/0
+repose/1
+beautify/1
+eyeglass/0
+sick/0
+maiden/0
+fatigue/1
+imagery/1
+model/0
+clapper/0
+chariness/1
+breakability/1
+plateful/0
+calumniate/1
+dramaturgy/0
+toenail/0
+crown/0
+sentence/1
+sky/1
+reduce/0
+unfavorable judgment/1
+mucilage/0
+fond regard/1
+due date/1
+director/0
+tiara/0
+youngster/0
+lung/0
+didactics/1
+oil colour/0
+gladden/1
+ordure/0
+Cuban sandwich/0
+john/0
+parrot/0
+dubiety/1
+breeding/1
+key out/1
+judgement/1
+charabanc/0
+cogitate/1
+thunderbolt/0
+weariness/1
+stupor/1
+plate/0
+noodle/0
+bankruptcy/1
+caryopsis/0
+thinking/1
+cycle/0
+aura/0
+lure/0
+toter/0
+gaffe/0
+entropy/1
+world/1
+inquiry/1
+inflammation/1
+angle/0
+optic/0
+table/0
+theoretical account/0
+nuzzle/0
+bread/0
+solid ground/0
+composer/0
+restaurant/0
+deceit/1
+cupboard/0
+comfort/1
+dictatorship/1
+business leader/1
+microseism/0
+instruction/1
+bombardment/0
+call on the carpet/0
+sedan/0
+kale/0
+traumatize/1
+illustriousness/1
+auto/0
+lucre/0
+sign/0
+horn in/0
+outrage/1
+bragging/0
+office/1
+alleviation/1
+anger/1
+neglige/0
+pocket edition/0
+plaza/0
+vocaliser/0
+falls/0
+son/0
+watchstrap/0
+play up/0
+lust/1
+sot/0
+petroleum/0
+encephalon/0
+cool it/1
+discretion/1
+elusion/0
+disruption/1
+feebleness/1
+stick out/0
+beget/0
+dry land/0
+frangibleness/1
+enamor/0
+manor house/0
+bob/0
+enthrone/0
+confide/1
+crabby person/0
+bog/0
+jolt/1
+jeopardize/1
+spy/0
+behind/0
+shades/0
+backup man/1
+drugstore/0
+hostility/1
+notebook computer/0
+bow/0
+boy/0
+bagnio/0
+Mungo Park/0
+murphy/0
+singularity/1
+loser/1
+savage/0
+sentry/0
+kat/0
+console/1
+vocalist/0
+chance/1
+initiative/0
+wheel/0
+thong/0
+T-shirt/0
+embrasure/0
+benignity/1
+moult/0
+earth/0
+nonsensicality/1
+dubiousness/1
+sunray lamp/0
+Hugo Wolf/0
+mould/0
+stool/0
+specialty/1
+American bison/0
+island of Jersey/0
+stoop/0
+upper/1
+precept/1
+paint/0
+wagon train/0
+mannikin/0
+vase/0
+decency/1
+put off/0
+chapel service/0
+injure/1
+bra/0
+eggplant bush/0
+sideboard/0
+hinder/0
+scent/0
+friend/0
+sense of humour/1
+injury/1
+heartache/1
+eruct/0
+squeegee/0
+motorbike/0
+TV channel/0
+guggle/0
+pleasure/1
+interpreter/0
+hurricane/0
+finger's breadth/0
+brilliance/1
+accept/0
+glory/1
+horse/0
+television set/0
+redolence/1
+boxers/0
+gurgle/0
+labor union/1
+India rubber/0
+shooter/0
+Republic of Turkey/0
+affront/1
+grape vine/0
+conditions/1
+the true/1
+sub/0
+sue/1
+apprehension/1
+hind/0
+overcome/1
+sum/0
+rural area/0
+no-good/0
+sun/0
+serving/1
+Friedrich August Wolf/0
+current/0
+Gram/0
+constellate/0
+hutch/0
+key/1
+bewitch/0
+servicing/1
+crapper/0
+storm/0
+texture/0
+orator/0
+headway/0
+maker/0
+lighter/0
+rock oil/0
+store/1
+silo/0
+beloved/1
+leg it/0
+appoint/1
+cannonball along/1
+motility/1
+settle down/1
+bum/0
+self-possession/1
+travel rapidly/1
+regurgitate/0
+story/1
+detriment/1
+bus/0
+limpidity/1
+dislike/1
+obeisance/0
+Sultanate of Oman/1
+cinch/0
+auricle/0
+testis/0
+stamp pad/0
+wooing/0
+fille/0
+brushing/0
+muck around/0
+law of nature/1
+crotch/0
+Town/0
+luggage/0
+steamroll/0
+generate/0
+passion/1
+drop off/0
+demeanor/1
+immenseness/1
+stunner/0
+greatness/1
+query/1
+newsmonger/1
+stole/0
+geyser/0
+travelling bag/0
+animal foot/0
+horseshoe/0
+ranch/0
+tube/0
+ripple/0
+ocean/0
+gallus/0
+headliner/0
+hint/0
+desk/0
+home plate/0
+heavyweight/0
+Bison bison/0
+speeding/1
+reclining chair/0
+figurer/0
+banking company/0
+idea/1
+kid/0
+domestic dog/0
+donkey/0
+throne/0
+pipe dream/1
+infantry/0
+buyback/1
+kip/1
+coldness/1
+flush/1
+manoeuvre/0
+kit/0
+defecate/0
+crosstie/0
+computed tomography/0
+legal action/1
+figure/1
+surprisal/1
+corrupt/0
+air hostess/0
+fleece/0
+transmit/0
+disapprobation/1
+monocle/0
+discernment/1
+worldly concern/0
+enchantress/0
+stone/0
+bog down/0
+ropeway/0
+passing/1
+sales agreement/1
+anuran/0
+dicky-seat/0
+gentleman/0
+penitentiary/0
+shogunate/1
+tranquillise/1
+gullible/0
+sack/0
+couturier/0
+reach/0
+humility/1
+Opposition/1
+washstand/0
+blow up/0
+pull a fast one on/0
+foreground/0
+Orange/0
+uncertainness/1
+cast off/0
+wafture/0
+wreathe/0
+hack/0
+road/0
+warlock/0
+sight/0
+wrath/1
+weather/1
+timber/0
+roar/0
+roam/0
+simulate/0
+guide/0
+young lady/0
+pep up/0
+house of cards/0
+spectacle/0
+fellow feeling/1
+collar/0
+affectionateness/1
+pridefulness/1
+Malus pumila/0
+goat/0
+lettuce/0
+inclining/1
+bet on/0
+Scots heather/0
+action mechanism/1
+indecorum/1
+substantially/0
+goad/0
+sensitivity/1
+sire/0
+nothingness/0
+totalitarianism/1
+sound judgment/1
+hoagy/0
+galley/0
+Isaac M. Singer/0
+trudge/0
+aspersion/1
+top executive/1
+assuagement/1
+wear/0
+range/0
+money plant/1
+al-Qur'an/0
+electric shock/1
+trustingness/1
+weak/0
+bifocals/0
+bus topology/0
+lean/1
+frigate/0
+joyousness/1
+buffet car/0
+assert/0
+flat/0
+recall/1
+flap/0
+place/0
+overnight bag/0
+trade union/1
+salientian/0
+dispute/1
+confidential information/0
+meteoroid/0
+state trooper/0
+aggression/1
+urinate/0
+alimentary paste/0
+lead/0
+expect/0
+lady friend/0
+sunlight/0
+elegance/1
+soothe/1
+robe/0
+twister/0
+pacification/1
+behaviour/1
+camelopard/0
+submission/1
+malefic/1
+inkpad/0
+intuitive feeling/1
+potentiometer/0
+prophylactic/0
+obsess/0
+villain/0
+easel/0
+utter/0
+calumny/1
+ballpark/0
+shopping mall/0
+dozer/0
+jailhouse/0
+leaders/1
+aver/0
+samovar/0
+growing/1
+knickknack/1
+armchair/0
+excitation/1
+trades union/1
+justice/0
+tycoon/1
+tag/0
+chantey/0
+notebook/0
+proboscis/0
+bitch/0
+Mangifera indica/0
+giant panda/0
+snowstorm/0
+repurchase/1
+Romance/1
+bouquet/0
+grace of God/1
+excitement/1
+prognostic/1
+field hut/0
+parking lot/0
+idolisation/1
+broach/0
+neck ruff/0
+slipperiness/0
+serviceman/0
+safe/0
+glitter/1
+departure/1
+auntie/0
+benignancy/1
+week/1
+sail/0
+cab/0
+cad/0
+nomadic/0
+unselfishness/1
+hoist/0
+tune/0
+can/0
+hair/0
+award/1
+cap/0
+exercising weight/0
+car/0
+marriage/1
+limiter/0
+cat/0
+stove/0
+appraisal/1
+weed/0
+sparrow/0
+village/0
+besmirch/1
+player/0
+filch/0
+horde/0
+rainfall/0
+balloon/0
+standoff/0
+motion/1
+idle/0
+wastebasket/0
+pillowcase/0
+hurrying/1
+hail/0
+giddiness/1
+screw propeller/0
+beckon/0
+carrier/0
+monsoon/0
+clutches/0
+promotional material/1
+painful sensation/1
+doorkeeper/0
+role model/0
+schooling/0

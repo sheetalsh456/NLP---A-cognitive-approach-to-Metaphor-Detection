@@ -1,0 +1,147 @@
+﻿Report 
+
+The ultimate goal of natural language processing (NLP) is the ability to use natural languages as effectively as humans do. 
+As computers play a larger role in the preparation, acquisition, transmission, monitoring, storage, analysis, and transformation of information, endowing them with the ability to understand and generate information expressed in
+natural languages becomes more and more necessary. 
+
+The 2 major challenges to NLP systems are:
+
+1. Reading and writing text, applied to tasks such as message routing, abstracting, monitoring, summarizing, and entering information in databases, with applications, in such areas as intelligence, logistics, office automation, and libraries. Computers should be able to assimilate and compose extended communications.
+2. Translation, of documents or spoken language, with applications, in such areas as in science, diplomacy, multinational commerce, and intelligence. Computers should be able to understand input in more than one language, provide output in more than one language, and translate between languages.
+
+The 3rd major challenge of NLP is:
+
+3. Interactive dialogue, allowing humans simple, effective access to computer systems, using natural language and other modalities, for problem-solving, decision-making, and control. 
+
+NLP systems perform three related functions: 
+1. Analysis (or interpretation) of the input, mapping it into an
+expression in some meaning representation language (MRL).
+2. Reasoning about the interpretation to determine the content of what should be produced in response to the user, perhaps accessing information in databases, expert systems, etc.
+3. Generation of a response, perhaps as a natural-language utterance or text. 
+
+In translation systems, the "response" is in a language different from the input language.
+
+The kinds of aids or utilities that would provide help are broad in scope:
+
+1. Language identification: Given a segment of free text, identifying the languages it is written in.
+2. Prioritization: Given a message (in free text), assigning a priority to it, based on message content.
+3. Routing: Determining which offices should receive a copy of the text based on its content.
+4. Gisting: Automatically adding records to a database, given the content of free text.
+5. Fusion: Recognizing that a new piece of text correlates with previously known information. Identification of what is new in the message, what corroborates known data, and what conflicts with known data.
+6. Report generation: Automatic preparation of text and tables describing a message, set of messages, or situation.
+7. Alerts: Given some pre-defined criteria about the content of a knowledge base/database, sending a message notifying that the criteria have now been met.
+
+
+
+
+
+
+
+
+
+Expansion
+
+There are two different query expansion techniques:
+1. Automatic
+2. Manual
+
+Automatic expansion Algorithm:
+
+1. The topics sent by NIST (National Institute of Standards and Technology) were processed to eliminate some words and phrases such as: “a relevant document”.
+2. The title text was repeated 3 times, the description 2 times. Our intent was to give different weights to the different fields.
+3. Processed topics were submitted to InQuery in order to retrieve the top 20 documents.
+4. For each one of the D documents with highest document score larger than threshold T, extract all passages of size larger than S. Let the passage score be the sum of all unique occurrences of a query term (either word of phrase) in that passage.
+5. Choose the P passages with highest passage score and add them to the original query. Notice that given two passages A and B, the score of B may be higher than A (and thus B may be chosen over A) even though A may belong to a document that has a higher score than B's document.
+
+This run uses title description and narrative fields. Proximity phrases only: the query text is replaced by the output of an algorithm that linked words which appeared in the same sentence at less than 3 words of each other using the #phrase operator. This run was intended as a baseline but became an official run
+when we were unable to beat its performance.
+
+Manual expansion Algorithm:
+
+1. The initial natural language topic statement is submitted to a standard retrieval engine via a Query Expansion Tool (QET) interface. The statement is converted into an internal search query and run against the database.
+2. The system returns topic-related summaries of top N (=30) documents that match the search query.
+3. The user reviews the summaries (approx. 5-15 seconds per summary) and de-selects these that are not relevant. For TREC-8 evaluations (like for TREC-7), we set a time limit of 10 minutes per query (clock time).
+4. All remaining summaries are automatically attached to the original search topic.
+5. bThe expanded topic is passed through a series of natural language indexing steps and then submitted for the final retrieval.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rewriting
+
+The rewriting proces is a transformational proces in which natural language utterances are mapped via a sequence of context-sensitive string to string transformations onto some semantic normal form. When a user uses some expression
+in a particular dialogue situation with some particular intention there are many other expressions that could be used by this user in this situation for expressing the same intention. Hence, why shouldn’t we try to find rules for transcribing these possible expressions into some normal form, which is then interpreted as a call of a dialogue procedure.
+
+We model the proces of ‘understanding’ a natural language expression as two subsequent processes. The first part transforms the expression into some
+intermediate semantic form, the second part is an interpretation of this form given the state of the dialogue. So, the systems reaction on a user utterance in
+principle depends on the state of the dialogue, but the way in which the intermediate semantic form is constructed does not depend on this state.
+
+In the current system semantic forms are flat lists of feature value pairs: the first element of the list is interpreted as a dialogue function; the other elements are interpreted as argument values of this function.
+
+Rewriting Rules:
+
+There are four kinds of rewrite rules; they are used for:
+1. Deletion of semantically irrelevant words.
+2. Substitution of words by standard synonymous words or expressions.
+3. Transformation of complex (like polite) forms into simple (imperative) normal forms.
+4. Changing the order of phrases into a predefined normal order.
+
+Each application of a rewriting rule results in a semantically equivalent sequence. An input sentence is submitted to a transformation system that applies the rules in the order in which they are specified. A sequence of words S0 is transformed into S1 using rule r1; then S1 is transformed into S2 using rule r2 and so on until no rule can be applied anymore, finally resulting in a sequence Sn which is the semantic form of S0.
+
+Given a particular order of the rules, S0 will always result in the same semantic form Sn. Since the rules are used in the order in which they are specified and at most once in the transformation proces, there is no possibility
+that the proces becomes cyclic. In some applications (for some particular domains) two words or constructs may be considered as synonym, where they should be considered semantically different in other domains. But there are words, phrases or patterns that are semantically equivalent no matter what the particular domain is. Therefore rules are categorized into a set of global rules which are domain independent and sets of local rules which are domain dependent and which are associated with particular semantic forms and pragmatic dialogue functions, like: the user asks for information about a particular performance, she asks for the price of a ticket or the date of a performance.
+
+A specification for the transformational system consists of the following parts:
+
+GlobalStrip: in which it is specified how the input sentence is prepared for further processing. It contains a list of tokens that should be removed, like punctuation marks and special tags.
+
+GlobalRemove: in which it is specifed which words should be deleted from the sentence.
+
+GlobalAliases: specifies synonyms of words.
+
+GlobalRules: this parts contains the global rewrite rules.
+
+GlobalMacros: in which global macros are defined. 
+
+LocalGrammar: in which local grammars are specified for particular language constructs.
+
+Steps involved in the transformation process:
+
+1. Remove endmarks, capitals
+2. Tag names, dates and performance names
+3. Remove irrelevant words
+4. Rewrite aliases
+5. Rewrite
+6. Shuffle sentence parts
+7. Apply local grammar for sentences that ask for dates
+8. Final rewrite
+
+A problem is how to handle unknown words. When input contains a proper name (for example) that is not in the name list (author or city names) the system skips it
+before rewriting and the word is not recognized as probably being a name. A more structural input analysis seems to be necessary, or information about the previous dialogue act should be used in the rewriting proces. The proper treatment of unknown words (or typo’s) is not a typical problem for the transformational approach, however.
+
+References
+
+1. “A Transformational Approach to Natural Language Understanding in Dialogue Systems” by 
+D. H. Lie, J. Hulstijn, R. op den Akker and A. Nijholt.
+
+2. “Natural Language Information Retrieval: TREC-8 Report” by Tomek Strzalkowski, Jose Perez-Carballo,  Jussi Karlgren, Anette Hulth, Pasi Tapanainen & Timo Lahtinen.
+
+3. “White Paper on Natural Language Processing” by Ralph Weiscbedel, Jaime Carbonell, 
+Barbara Grosz, Wendy Lehnert, Mitchell Marcus, Raymond Perrault and Robert Wilensky.

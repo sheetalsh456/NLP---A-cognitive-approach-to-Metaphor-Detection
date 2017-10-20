@@ -1,0 +1,110 @@
+WordNet - installed
+NLTK - installed
+K-gram
+NLTK with python - publisher O'Reilly
+Syntactic, cognitive level, semantic
+Research papers 
+CSA dept 117 - Lab (ground floor)
+CSA dept 214 - Veni Sir's room (first floor)
+
+To run stanford parser :
+Go into directory and run ./lexparser.sh data/testsent.txt  (Parse tree + Dependencies)
+
+To get the GUI for loader and then run :
+Go into directory and run java -mx800m -cp "*" edu.stanford.nlp.parser.ui.Parser  (only Parse Tree)
+
+POS tags link : https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+
+Scores of properties are under extreme fire threat as a huge blaze
+continues to advance through Sydney's north-western suburbs. Fires
+have also shut down the major road and rail links between Sydney and
+Gosford.
+
+The promotional stop in Sydney was everything to be expected for a
+Hollywood blockbuster - phalanxes of photographers, a stretch limo to
+a hotel across the Quay - but with one difference. A line-up of
+masseurs was waiting to take the media in hand. Never has the term
+"massaging the media" seemed so accurate.
+
+Stanford Parser : DependencyParserDemo.java
+Stanford PosTagger : TaggerDemo.java
+------------------------------------------------------------------------------
+Files
+1. DFSLabelFile.java - Parser
+2. DependencyTagsFile.java - Parser
+3. generate.java - WordNet
+4. Probability.java - Parser
+5. DependencyTable.txt
+6. Sentences.txt
+7. SentencesOutput.txt
+8. FinalLabelledNounList.txt
+9. FinalLabelledVerbList.txt
+10. Concreteness.java
+11. ConcretenessOutput.txt
+--------------------------------------------------------------------------
+1. Change format to : (6 columns)
+Relation Relationlength Gov govlength Dep deplength
+
+2. parse tree : (2 columns)
+wordpos wordlength
+
+3. Make MD as 105.
+
+4. For all open and close angular brackets, put length field as 1.
+
+5. For all Tags (100's and 200's), put length field as 2.
+
+6. Take relationlength as 3.
+
+7. Give table of dependency types also.
+
+---------------------------------------------------------
+ 
+ To upload files on the server :
+ scp filename interns2016@10.192.18.13:path(.)
+ mv filename directory name - To move a file to that directory
+
+ To get output in output.txt file while running, 
+ java -cp ./*: DependencyTags >> output.txt
+ ------------------------------------------------------------------------------------------
+ June 3
+ in dfslabelfile : 
+ S,NP,VP,PP and SBAR - 200s and 400s
+ Other POS tags - 100's (There are 41. 36 in manual, and first 5 are ,:.$#)
+ and length for POS tags is taken as 4
+ Look at papers of irony, and do a literature survey.
+ POS tags from 100 to 140 (both inclusive), and then 163 is NEW.
+ -----------------------------------------------------------------------------------------
+ June 16
+ Change DependencyTagsFile.java according to list sent, and mail it to sir.
+ Collect arnd 40 concrete and 40 abstract nouns. Label each concrete noun and its synsets as 0. Label each abstract noun and its synsets as 1.
+ And then, combine for nouns and words. Input many sentences and calculate probabilities for each combo 00,01,10,11. 
+ Install Tk and Tcl. 
+-----------------------------------------------------------------------------------------------------------
+ June 27
+
+We attach the foll weight metrics. We give a score to each of the 3 constituents, NP VP and NP(principle direct object NP, sometimes a part of a VP) as a 3-tuple of 2 integers in each element. First count will refer to the no.of concrete nouns, and the 2nd will refer to the no.of abstract nouns. A similar rule applies for the VP, where the main verb will be considered. Default count will be put as 0. Inside a VP, if there are multiple NP's, we consider the first one. That is identified as the object phrase. If there are multiple VP's, we take the first one. If the total abstractness score is more than concrete, then it can be identified as a metaphor. (Check this).
+Initially, we ignore all pronouns, adjectives and adverbs. It may be required to consider these as well in a more fine-grained analysis. 
+We also ignore all determiners and conjuncts.  In the first instance, we also ignore prepositions.
+Without loss of generality, we take the first occurrence of the noun object in an NP, the verb object in a VP and the corresponding noun object in a subsidiary NP for our computations. However for a fine-grained analysis, a more comprehensive treatment of the auxiliary clauses and phrases will be required. This is for active voice sentences. 
+--------------------------------------------------------------------------------------------------------------------------
+Find the level in the tree, and check. 
+------------------------------------------------------
+1st July 
+// Weka classification tool, scikit learn python nltk, sentiNet
+
+The main hypothesis is on the co-occurrence of incongruous or anomalous word pairs. A pair of words P = <$w_1,$w_2> under consideration will be co-located either adjacent to each other or separated by a few words. They could both have the same or different POS tags. They could be used in same or different senses. In the first version of the proposed heuristic, we ascribe concreteness/ abstractness values to the two words of P, separately. In a proposed augmentation of this scheme, we will ascribe a concreteness/ abstractness value to the pair of words together. While a power law distribution (Zipf's law) is followed by single word frequencies, it is of interest to utilize the properties of distributions of bi-grams and possibly higher k-grams for small k. 
+
+We build a feature vector for a collection of labelled sentences, S, in which the co-ordinate values represent various concreteness/ abstractness scores of the constituent k-grams. Then we use S as a training set for a two-class supervised learning algorithm. In particular, the learning algorithm could be a simple classification such as k-means clustering algorithm. 
+
+For every sentence S, we build a vector $\mu(S)$ = $\langle \mu_1 $, $ \ldots $, $ \mu_d \rangle $ of d-integers in which the co-ordinate value $ \mu_j $, j = 1, $ \ldots $, d represents the CA score of a word w_j. We consider a feature vector of d = 3 dimensions. The three co-ordinates will represent the first noun in the head noun phrase, the first verb in the succeeding verb phrase, and the first noun in the final noun phrase. We treat missing values as zeroes. The basis for this scheme is the standard production rule, at the highest level of the parse tree, namely $S \rightarrow \langle $ NP, VP, NP $\rangle $. We take the first element in each phrase for our initial studies, since most well-formed sentences will have this simple and direct form. 
+
+
+
+
+
+
+
+
+
+

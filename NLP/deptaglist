@@ -1,0 +1,53 @@
+ 1. abbrev   abbreviation modifier
+ 2. acomp   adjectival complement
+ 3. advcl   adverbial clause modifier
+ 4. advmod   adverbial modifier
+ 5. agent   agent
+ 6. amod   adjectival modifier
+ 7. appos   appositional modifier
+ 8. attr   attributive
+ 9. aux   auxiliary
+10. auxpass   passive auxiliary
+11. cc   coordination
+12. ccomp   clausal
+13. complm   complementizer
+14. conj   conjunct
+15. cop   copula
+16. csubj   clausal subject
+17. csubjpass   clausal passive subject
+18. dep   dependent
+19. det   determiner
+20. dobj   direct object
+21. expl   expletive
+22. infmod   infinitival modifier
+23. iobj   indirect object
+24. mark   marker
+25. mwe   multi-word expression
+26. neg   negation modifier
+27. nn   noun compound modifier
+28. npadvmod   noun phrase as adverbial modifier 
+29. nsubj   nominal subject
+30. nsubjpass   passive nominal subject
+31. num   numeric modifier
+32. number   element of compound number
+33. parataxis   parataxis
+34. partmod   participial modifier
+35. pcomp   prepositional complement
+36. pobj   object of a preposition
+37. poss   possession modifier
+38. possessive   possessive modifier
+39. preconj   preconjunct
+40. predet   predeterminer
+41. prep   prepositional modifier
+42. prepc   prepositional clausal modifier
+43. prt   phrasal verb particle
+44. punct   punctuation
+45. purpcl   purpose clause modifier
+46. quantmod   quantifier phrase modifier
+47. rcmod   relative clause modifier
+48. ref   referent
+49. rel   relative
+50. root   root
+51. tmod   temporal modifier
+52. xcomp   open clausal complement
+53. xsubj   controlling subject
